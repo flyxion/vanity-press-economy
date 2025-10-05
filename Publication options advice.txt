@@ -1,0 +1,105 @@
+Publication options advice
+Skip to content
+Open sidebar
+ChatGPT
+5
+ChatGPT
+5
+Share
+You said:
+Maybe I'll just skip publishing the vanity press economy as it criticizes Github and other large corporations
+ChatGPT said:
+That's entirely reasonable — holding back publication on the
+Vanity Press Economy
+essay (especially if it critiques GitHub, OpenAI, or other large corporations) can be strategically wise.
+You could treat it as one of the following options instead of outright discarding it:
+Private White Paper:
+circulate it privately to collaborators or trusted readers, perhaps as a PDF marked
+internal draft
+. This keeps the critique alive without burning bridges.
+Abstracted Re-write:
+keep the theoretical framework (computational seigniorage, compression theft, attention arbitrage) but remove direct corporate names — replace them with
+"platform monopolies," "infrastructural enclosures,"
+etc.
+Delayed Publication:
+timestamp and archive the current draft (e.g., via Git or IPFS hash), then revisit once your larger projects (RSVP,
+Deccelerationist Agenda
+,
+Entropy Futarchy
+) are released — at that point the critique will appear as background theory rather than a polemic.
+Integrative Chapter:
+later integrate it into a book-length synthesis (for instance,
+Entropy and Empire in the Attention Economy
+) where the corporations are case studies rather than targets.
+Would you like me to help reframe it into one of these formats — for example, turning it into an abstract, a theoretical section for
+The Deccelerationist Agenda
+, or a private-circulation essay draft?
+You said:
+I think I only have one c in the decelerationist agenda now
+ChatGPT said:
+Good catch — yes,
+"Decelerationist"
+is the standard and etymologically correct form (from
+celeritas
+, Latin for "speed," with
+de-
+meaning "down"). "Deccelerationist" (with two c's) is a common but nonstandard variant.
+If you're consolidating the manuscript under
+The Decelerationist Agenda
+, here are a few quick style and metadata recommendations:
+Title:
+The Decelerationist Agenda: Plural Progress in an Age of Computational Seigniorage
+(the subtitle keeps the economic-philosophical framing intact).
+Abbreviation:
+Use
+TDA
+instead of
+DDA
+throughout for section labels and cross-references.
+Internal consistency:
+Update any LaTeX labels like
+\label{sec:deccelerationist}
+→
+\label{sec:decelerationist}
+.
+Adjust BibTeX entries or filenames (e.g.,
+decelerationist_agenda.tex
+,
+tda.bib
+).
+Thematic tone:
+The corrected spelling reads more serious and policy-oriented; "deccelerationist" has a slightly ironic or aesthetic flair, so if you liked that tone, you can preserve it as an
+alias
+in an epigraph or footnote ("stylized
+Deccelerationist
+in earlier drafts to emphasize recursive slowing").
+Would you like me to help you generate a brief paragraph for the paper's introduction explaining what
+Decelerationism
+means in your specific sense (e.g., plural progress, entropy-respecting slowdown, etc.)?
+You said:
+I might need it later
+ChatGPT said:
+Understood — using
+"Decelerationist"
+with a single
+c
+is absolutely the right choice going forward. You can easily keep the older "Deccelerationist" spelling as an aesthetic artifact in earlier drafts or filenames (e.g.
+deccelerationist_agenda_v1.tex
+) if you want a version history marker.
+When you're ready to revisit it later, I can help you:
+Write a formal
+definition section
+("Decelerationism as Plural Progress") that unifies the moral, epistemic, and infrastructural arguments.
+Draft an
+editorial note
+explaining the orthographic correction and why you retained both spellings in archives.
+Or create a
+short abstract paragraph
+for the opening of
+The Decelerationist Agenda
+.
+Would you like me to make a quick outline for that definitional section now, so it's ready when you return to it?
+ChatGPT can make mistakes. Check important info. See
+Cookie Preferences
+.
+

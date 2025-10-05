@@ -1,0 +1,2999 @@
+Even though a lot of physicists will say
+second law says the total entropy is
+never decreasing that can't be actually
+be the second law that can't be a
+consequence of the second law.
+This is a 2hour deep dive into entropy
+and the second law. Most talks on this
+subject are 10 minutes long. But today,
+Professor Wayne Mirold gives a tour to
+force, explaining entropy from multiple
+angles, dispelling myths, and even the
+stunning realization that the second law
+is opposite to what you think. You will
+get both answers from perfectly
+competent physicists and on each side
+will be absolutely certain that that is
+the right answer.
+Questions explored are why is entropy
+not the same as disorder? What do
+popular accounts and even undergraduate
+texts on entropy and thermodynamics
+consistently get incorrect? Is the
+universe subject to the second law? Can
+you break these supposed entropic limits
+and why quantum mechanics changes
+everything?
+There's plenty of confusion and puzzles
+about entropy. Today I would like to
+talk about exactly what is entropy. And
+one of the questions that give
+conflicting answers is imagine in front
+of you you have some physical system. I
+believe this comes from Shelley
+Goldstein
+like let's just say you give this
+example like a glass of water for
+instance and its physical state is
+clearly not completely known to you
+but then something else appears to you.
+You can be an intelligent person an
+angel or what have you. It gives you a
+much better approximation of this glass
+of water than what you had before. Then
+the question is has the systems the
+glass of water has its entropy
+decreased?
+So there are broadly speaking two
+answers one can give. One is yes
+obviously because entropy has to do with
+the information of the system. So if
+you've gained information the entropy
+has changed.
+Then the other is that's absurd.
+The entropy has something objective to
+do with the system. So why would your
+information about the system change its
+entropy? take it away. Yep. Yeah.
+Absolutely. And you will get both
+answers from perfectly competent
+physicists and they will be absolutely
+certain that that is the right answer.
+Um so I mean I think that the best way
+to start even thinking about that is you
+raise a you you pose a question as what
+is entropy?
+And I think that's a bit of a misleading
+question because entropy is one of those
+words that's used in different senses.
+And um
+and we're used to that. We're it's not
+unusual. Like if you open up a
+dictionary and like at a random page and
+point at any word at random, there'll
+probably be like two or three or maybe
+four def different definitions.
+Very often in in science, people will
+give a you coin a new technical term
+because they want to something to have a
+precise well-aggreed upon meaning. And
+that's actually what Clausius did back
+in um 1865 I think it was. Um he thought
+okay here's this important quantity that
+I and others have been batting around in
+thermodynamics. it's important enough it
+needs a night a a a dignified name and
+he's you know his rationale was well
+look everybody studies the dead
+languages right we all know Greek and
+Latin and so we don't want something
+like from English or German or Italian
+because then it becomes sort of
+nationalistic words so let's coin
+something from a Greek word so he coined
+the word entropy from a Greek word for
+transformation and he deliberately
+coined it to sound kind of like energy
+because it's closely related um concept.
+If I had my way,
+we would respect Clausius and we would
+only use the word entropy in exactly the
+same sense that Clausius defined it.
+Okay? And that what that's would be what
+everyone means by entropy. But
+historically that's not what happened.
+There's been a number of different
+quantities that people call entropy and
+they're all related and they're all
+related in some sense to thermodynamic
+entropy. But they're just different
+things. If someone asks you the
+question, has entropy decreased? I think
+an actual question is, well, which
+entropy?
+So in other words, there should be
+entropy sub one, entropy sub 2, entropy
+sub3. And when someone says, well, what
+is the entropy of the system? You say,
+okay, are you referring to two, three,
+sub one?
+Yeah. Exactly. Exactly. Or I mean, if I
+had my way, people would just have
+coined different words for these
+different kinds of kinds of things.
+Um but there's a reason why some people
+say well of course entropy has to be
+um a an intrinsic property of a system
+because you know this is physics after
+all. You know we're not doing
+psychology. It's not in you we're not
+studying people's information. We're
+studying physical properties of physical
+systems which they you qualify they have
+no matter what anybody knows about them
+or or would think about. Like if I ask
+okay what's the mass of this cup? Um
+that you know it would seem absurd to
+say well how much do you know about the
+cup?
+Mhm.
+The mass of the cup is something that
+the cup has um
+um talking about the rest mass because
+sometimes people will talk about
+relativistic mass and talk about that as
+observer dependent. But okay what's the
+rest mass of this cup
+then? Um yeah that's a property of the
+cup and um it doesn't matter what anyone
+thinks about it and if you think that
+thermodynamics is a science like that it
+is just studying the physical properties
+of things
+then it seems absurd that one of its
+central concepts entropy would be
+something that would be defi um defined
+um relative to a state of information
+and
+I think that at bottom. The fact that
+people are inclined to think that
+different
+um answer you notions of entropy are
+obviously the right one and different
+answers to the question are obviously
+the right answer is even though this
+gets completely blurred in the textbook
+tradition there are actually different
+conceptions about what the therm science
+of thermodynamics is all about.
+Okay. So look in the second law it's
+stated that entropy doesn't decrease.
+Yeah. Okay. Yes. Yeah. Your caveats
+closed system or isolated system. Okay.
+Then there's a formula for entropy. Are
+you saying that even here there should
+be sub one and sub two? No, it actually
+if you look these different notions of
+entropy are actually defined
+differently.
+Um and you you'll actually if you look
+at different textbooks
+when they introduce the concept of
+entropy they actually will sometimes
+give very different definitions
+right and um so maybe I should just talk
+about what Clausius was doing you know
+because that's one of the definitions
+that's out there right
+sure
+um so Cl um Clausius
+in like was was working in the 1850s
+1960s, those were the early days of what
+we now call um thermodynamics.
+And it was Kelvin who gave the science
+that name. And I think a lot of people
+actually misunderstand what that word
+means, thermodynamics,
+because in um
+physics these days when you talk about
+dynamics, you talk usually mean the laws
+of evolution like you the dynamical laws
+that govern the behavior of systems. And
+um that's actually not what Kelvin meant
+when he w he decided to call this um
+emerging science thermodynamics.
+This was you as I said back in the days
+when everybody um studied Greek in
+school um and it's um formed from two
+Greek words, the words for heat and for
+power. And thermodynamics has its roots
+in the study of um how you can get
+useful mechanical work out of out of
+heat. Like it really ultimately has its
+roots in um Carnau's study of heat
+engines, efficiency of heat engines. If
+you think of that as um what
+thermodynamics is about,
+physicists says have a word for a theory
+like that. It's a resource theory.
+And this comes out of quantum
+information theory. So what happened in
+um really got going a couple decades ago
+is this you know field of quantum
+information theory. It includes quantum
+communication and cryptography and stuff
+like that. And they were asking
+questions like you know if you've got
+two agents who have access to certain re
+resources what can they do with those?
+So for example, you know, these agents
+are always called Alice, Bob and Bob, by
+the way. You know, for example, if Alice
+and Bob want to um send a secure signal
+that an easedropper could not, as a
+matter of physical principle, easedrop
+on um what can they do? Can they do it
+if if they have a certain amount of
+shared entanglement? So it's using
+physics in the sense that quantum
+physics is telling you how um physical
+systems are going to respond to certain
+operations and stuff like that. But it's
+got all this but the questions you're
+asking are really
+questions not within physics proper.
+It's um questions about what agents with
+certain kind of means of manipulating a
+system and certain resources can do to
+achieve certain goals.
+Why is that not in physics proper?
+Um because what when I say physics
+proper people um usually what I mean is
+what physicists usually think about
+physics is about the properties of
+physical systems period
+right and if I'm talking in a and so
+these goals of these agents aren't a
+matter of physics these are something
+that you're adding on
+right so is it so there's a one one
+question is what you know what do things
+do um so there's a sort of question what
+do things do under certain
+circumstances. But if I'm if if I'm
+setting you for certain goals like like
+um is an agent itself a part of a
+physical system?
+The agents themselves are physical
+systems, right?
+But um physics
+studies physical systems in certain
+respects. So So I'm a physical system,
+right? You're a physical system. You
+have thoughts and belief. Thank you.
+It's the nicest thing anyone's ever said
+about me.
+Some might disagree. You know, some
+might um disagree and say you're you're
+not just a physical system. You've you
+know, you're a combination of a physical
+system plus an immaterial mind, but I
+actually think that we are all physical
+systems, right? Um so, um and you know,
+we quys systems have you know, thoughts
+and desires and hopes and dreams and
+stuff like that. But if a scientist is
+studying my thoughts that study that
+that scientist is doing psychology and
+not doing physics.
+Okay.
+Yeah. Um so um you're just studying
+different aspects of things. And if I
+bringing in things like um here's the
+game that the house and are are going
+Bob are going to play and here's how
+we're going to score them then and then
+you give them certain resources and
+physics tells tells you what the highest
+possible score is but basically you're
+bringing but you're not doing the sorts
+of thing you usually find in in a
+physics textbooks if you're talking
+about goals and scoring and things like
+that. That's what I mean.
+Got it.
+Yeah. Yeah. Good. Good.
+And um and I think this is will become
+important for um thermodynamics. Um so
+what um
+people um who are doing quantum
+information theory they said okay you
+know what we're doing is this is a
+resource theory
+and then some of the same um methods
+ended up when people started doing
+quantum thermodynamics
+they a lot of people started thinking of
+this as a resource theory like so if I
+give you certain um um resources and
+you've got a certain task like lifting a
+weight or something like that and you
+you may and maybe you've got you know
+some kind of system and you've got a
+heat bath at a certain temperature you
+know what's the most um work you can do
+out what's the most work you can get out
+of it so like how high can you lift the
+weight and um they were people a lot of
+people in working in quantum
+thermodynamics these days think okay
+what we're doing is a resource theory
+similar and in some some senses was
+modeled on the quantum information
+theory.
+Okay.
+And um that's basically how the founders
+of thermodynamic this wasn't quantum.
+It wasn't quantum but that's basically
+how the founders of thermodynamics
+thought of thermodynamics. It's a study
+of given certain physical resources
+like heat as and you know things like
+that. what can I how can I exploit these
+resources to do work you know like drive
+a car or something like that or raise
+so let me see if I can summarize this so
+Clausius who coined the term entropy was
+thinking of it in terms of a resource
+theory now a resource theory is
+what can I do with these resources and
+often in thermodynamics when you take an
+introductory course you speak either the
+first or second lecture about pistons so
+given this system can I move a piston
+Uhhuh.
+So they were thinking practically.
+Yeah. Yeah. There's a sort of
+interesting trade-off between practical
+concerns and theoretical concerns
+because these questions were initially
+raised by practical concerns where they
+sort of took on a life of their own. And
+you can see that already in Caro's work.
+So Carno wrote this um little pamphlet
+called on reflections on the motive
+power of heat and he was actually um
+responding to some issues um and this is
+something that um his father Lazar Carno
+had done some work on that was going on
+the same at at the time is um if you've
+got a heat engine
+and usually that was you've got some
+kind of gas in a chamber and you heat it
+up and it drives a piston, right?
+Is it more efficient
+uh um if you use a more volatile
+substance? So, it doesn't matter whether
+you're using air or steam or say um
+alcohol or ether or something like that.
+Are you going to get more work out of
+the same amount of heat?
+And this was actually a practical matter
+because pe some people were thinking,
+okay, yeah, let's use alcohol or ether,
+right? And you can kind of imagine what
+happens because these things not only
+expand a lot faster when they're heated
+up than air does. They're also highly
+flammable.
+And um it's kind of dangerous to have
+things these things around fire. And so
+one of the questions that um Caro was
+asking is well does it matter what the
+working substance is? Does it matter
+what gas you have in the p piston? And
+he argued that actually the maximum
+efficiency like if I have two heat
+sources at at different temperatures,
+the maximum efficiency of an engine
+running between them is independent of
+what the stuff is that you're using in
+the gas.
+So that had its um roots in um practical
+concerns, but Carnau considered
+what we now call thermodynamically
+reversible processes. And the
+thermodynam reversible process
+involves you're only exchanging heat
+from two things at the same temperature.
+And so and so what you're doing instead
+of is you're actually expanding the gas
+very very slowly.
+Mhm.
+And then um when you're dumping heat out
+of it, you're compressing it very very
+slowly. And of course
+actual engines are not anywhere close to
+thermodynamic reversibility because what
+we're actually concerned is not just
+efficiency but also power, right? how
+much work we're getting per unit time,
+right?
+Sure. Like you if if you know if someone
+tries to sell you a car and says, "Okay,
+this has an amazing gas efficiency,
+but you can only go, you know, 5 km an
+hour." Right.
+Right.
+We're not buying it literally. Right.
+And so and so a lot of the study of um
+even though
+thermodynamics grew out of study of
+efficiency of engines.
+A lot of the actual theoretical work the
+things you can actually prove things
+about involve consideration of
+thermodynamically reversible processes
+and um you know in the real world there
+actually are no thermodynamically
+reversible processes. Um I noticed that
+you interviewed John Norton a while
+back. I'm sure he um emphasized that
+point. Um yes.
+Right. But we can approximate
+thermodynamically um
+reversible process. They just get they
+just have to go very very slowly. Right.
+And actual um machines were not
+interested in things that work very very
+slowly.
+So you can still you can have a resource
+theory as a more that is maybe motivated
+by abstract concerns but um you could be
+actually con considering situations that
+are very far from realistic ones.
+Talk about how the second law assumes a
+certain definition of entropy. Maybe it
+shouldn't even be called the second law.
+Mhm.
+Good. Um I'm I'm really glad you asked
+me that because I think it's I think
+it's the other way around. Um when you
+ask people what's the second law of
+thermodynamics, you go ask ask people in
+the street and something they'll say
+right
+you know um they'll um a lot of them
+will um say things like what you said
+that the entropy of an isolated closed
+system always in increases. Right? Now
+the interesting thing is if you what you
+mean is thermodynamic entropy as
+Clausius defined it. That actually is
+not right for an important reason. Even
+though Clausius himself sort of as
+tongue and cheek at the end of one of
+his papers said we can express the first
+and second law as or he says if we may
+be permitted to talk about the total
+energy of the universe and total entropy
+of the universe we can ex we can express
+the first and second laws as total
+energy of the universe is constant. The
+total entropy of the universe strives to
+a maximum. That's actually not that's
+actually not his official statement of
+the second law and there's very good
+reason because you said the the second
+law of thermodynamics presupposes a
+certain notion of entropy is actually
+the reverse that Kausy's definition of
+energy entropy presupposes the second
+law. Hm. Okay. How so?
+Okay. So, one way of um
+expressing the second law would be
+suppose I've got some kind of system and
+it's easiest to imagine a um gas with a
+piston and it goes around in a cycle in
+the sense that um it comes back to the
+same thermodynamic state that it started
+in. And people were thinking about these
+cycles because they're thinking about
+heat engines. say what a heat engine
+typically does um is you've got some
+working substance gas, you heat it up,
+it drives a piston out, and then you
+either expel the substance or cool it
+down and compress it and um push the
+piston in and then you're ready to start
+again. So, the engine itself is working
+in a cycle.
+Suppose I've got a a gas in a box and
+and I can change its temperature. Um,
+and I I can um
+I can draw heat in or push heat out and
+I can move the piston back and forth,
+etc.
+Just a moment. Don't go anywhere. Hey, I
+see you inching away. Don't be like the
+economy. Instead, read The Economist. I
+thought All the Economist Was was
+something that CEOs read to stay
+uptodate on world trends. And that's
+true. But that's not only true. What I
+found more than useful for myself
+personally is their coverage of math,
+physics, philosophy, and AI, especially
+how something is perceived by other
+countries and how it may impact markets.
+For instance, The Economist had an
+interview with some of the people behind
+Deepseek the week Deepseek was launched.
+No one else had that. Another example is
+The Economist has this fantastic article
+on the recent dark energy data which
+surpasses even scientific Americans
+coverage in my opinion. They also have
+the chart of everything. It's like the
+chart version of this channel. It's
+something which is a pleasure to scroll
+through and learn from. Links to all of
+these will be in the description of
+course. Now the economist commitment to
+rigorous journalism means that you get a
+clear picture of the world's most
+significant developments. I am
+personally interested in the more
+scientific ones like this one on
+extending life via mitochondrial
+transplants which creates actually a new
+field of medicine something that would
+make Michael Leven proud. The Economist
+also covers culture, finance and
+economics, business, international
+affairs, Britain, Europe, the Middle
+East, Africa, China, Asia, the Americas,
+and of course the USA. Whether it's the
+latest in scientific innovation or the
+shifting landscape of global politics,
+The Economist provides comprehensive
+coverage and it goes far beyond just
+headlines. Look, if you're passionate
+about expanding your knowledge and
+gaining a new understanding, a deeper
+one, of the forces that shape our world,
+then I highly recommend subscribing to
+The Economist. I subscribe to them and
+it's an investment into my into your
+intellectual growth. It's one that you
+won't regret. As a listener of this
+podcast, you'll get a special 20% off
+discount. Now you can enjoy the
+Economist and all it has to offer for
+less. Head over to their website
+www.economist.com/toe
+to get started. Thanks for tuning in and
+now let's get back to the exploration of
+the mysteries of our universe. Again,
+that's economist.comto.
+I'm I'm gonna I'm gonna say this a
+little bit differently because I'm I'm
+going to introduce the concept of
+entropy without using the word and let's
+just see if you notice where it comes
+in.
+Okay.
+Okay. Okay. So, imagine you've got say
+for example a gas in a container and
+there's a piston you can move around and
+um you can put it next to a heat source
+and maybe expand it and use that to move
+a weight or something. And so suppose I
+start with it at a certain temperature
+and pressure and the pi and a certain
+volume the piston's a certain place and
+I slowly expand it in a
+thermodynamically reversible sense and
+I'm raising a weight and um it's
+connected to a heat source so heat is
+going into it. All right.
+Okay.
+And then I hand it to you Kurt and say I
+want you to put it back to the original
+state. Okay. Now here's what what um
+Clausius is thinking as a consequence of
+the second law of thermodynamics. You
+can't do that without expelling any heat
+at all from the system.
+All right.
+Right.
+Now one thing I can do is if the
+original um process was
+thermodynamically reversible is I can
+just do that original process in
+reverse. compress the gas back to its
+original volume, expelling exactly the
+same amount of heat into the same
+reservoir I got it from at the same
+temperature.
+Right? And that's not the that that
+might be the the best you can do if you
+only have one heat source or sink at one
+particular temperature.
+But what we really want to do is
+not lower the weight as much as as we
+raised it. And so Clausia says, "Hey,
+look, if you've got another heat bath at
+a lower temperature,
+um, what you can do is you can expel a
+smaller amount of heat at a lower
+temperature
+and get the thing back to its original
+state that way."
+Uhhuh.
+So he introduced this notion of and so
+one way of the um
+he introduced this notion of um
+equivalence value of heat
+transferred between a system in a
+reversible process and a heat bath is in
+a certain sense worth more for what you
+want want to do if it's at a lower
+temperature than a higher temperature
+because a certain if I want to restore
+the initial state I can either use a
+large quantity of heat at a high
+temperature or a less heat at a lower
+temperature. Okay.
+And so that's what he calls the equival
+equivalence value of a heat of heat. the
+you know it's it's a function not just
+of the amount of heat but the
+temperature which is being transferred
+and in fact you can as Kelvin realized I
+just I can define a temperature scale
+which we call the Kelvin scale or
+absolute temperature scale so that the
+equivalence value of a quantity of heat
+at a given temperature is just inversely
+proportional to temperature just define
+the the temperature scale that way.
+Okay. So one um
+um
+statement of the second law is that if I
+take something in a cycle
+and there's heat being exchanged to
+various temperatures
+add up all the equival equivalence
+values to those heats
+it can't be um more greater than zero.
+It's less than or equal to zero. And if
+it's a reversible cycle then it's equal
+to zero. The sum total of all those
+equivalents of those is equal to zero.
+Yes.
+Okay. Okay. Now I can define entropy
+because as a consequence of that if I if
+I have two different thermodynamic
+states
+and I go from one to another in a
+reversible process
+the total equivalence values over over
+those processes is not going it's not
+going to matter which reversible
+process. So suppose suppose there's more
+than one reversible process that gets me
+from state A to state B and if if I go v
+one reversible process add up all the
+equivalence values of heat and it'll be
+the same as um another process and the
+argument is if these are reversible
+processes
+let me see so you require the second law
+if my understanding is correct in order
+to make thermodynamic entropy a a well-
+definfined quantity.
+Exactly. Yeah. Yeah. In Yeah. Exactly.
+It's a So the the Yeah. The definition
+of thermodynamic entropy is um if I want
+to know the entropy difference between
+two states,
+then cook up any reversible process that
+connects those two states and just add
+up the equivalence values of heat
+transferred in that process. And it's a
+consequence of the second law that it
+doesn't matter which reversible process
+I use.
+So when someone says I've broken the
+second law, can that statement even be
+made or are you saying that there's you
+have to assume it in order to define the
+entropy? And so how are you going to
+break the second law? Yeah. So if you um
+if you try to express the second law as
+total entropy of a in any process the
+entropy of an isolated system never
+decreases.
+Um that's actually incorrect because if
+you could break the second law then you
+um you wouldn't have a well- definfined
+thermodynamic entropy.
+Interesting.
+Yeah. So I mean this is a point I think
+that a lot of people miss. It's actually
+a consequence. What I'm saying is what
+I'm saying about the um definition of of
+thermodynamic entropy is not anything
+radical. It's like standard textbooks.
+Very often um what um people do in
+textbooks is they give a statement of
+the second law something like Clausius
+version is there's no process whose net
+has no other effect than moving um heat
+from a cold body to a hot body.
+and and then um that's one version of
+the second law and I express it without
+mentioning entropy.
+Yes.
+And then say given the second law we can
+define thermodynamic entropy using the
+standard definition that you just take
+any two any reversible process connects
+two states add add up the equivalence
+values of heat along those processes and
+it's going to along that process and
+it's going to be the same. So even
+though a lot of people will say second
+law is total entropy of a
+um bunch of systems that's isolated is
+never decreasing. If you mean thermody
+entropy that can't be actually be the
+second law that can be a consequence of
+the second law. But if you actually
+break the second law, like if I could
+have a process that had no other effect
+than to move heat from a cold body to a
+hot body, then thermodynamic entropy
+just wouldn't be well defined. Wayne,
+let me ask you something. So you're
+extremely historically informed. So
+historically speaking, how do people
+think about entropy? What I mean to say
+is we can make an analogy with heat. So
+heat we now think of as having to do
+with the motion of molecules.
+Okay, it's something about the motion of
+molecules. Now temperature is also
+something about the motion of molecules.
+But prior 100 years ago, 200 years ago,
+it was thought of as some form of fluid.
+Okay, so how did people used to think
+about entropy? Did they think of it as a
+quantity like temperature? It was
+something abstract. Did they think of it
+like a fluid? Did think of it like
+something else? What was their mental
+model for entropy?
+That's a very good question. Um because
+as a matter of fact um Carnau when he
+wrote this book he was thinking of heat
+as a fluid. They called a caloric that
+was conserved and it flowed between
+bodies and even Kelvin when he was
+writing his first papers on what we now
+call the Kelvin scale um was thinking of
+it that way. But um what happened was
+that shortly after that and this
+happened during Carnau's lifetime, Juel
+did his experiments on what people
+called the mechanical equivalent of
+heat. Um it was and it was um
+you know the basic idea is if I you know
+do a certain amount of work I can
+generate a certain amount of heat and
+you can measure the work in term of say
+footbs and you can measure the heat with
+a using a calerimeter how much will this
+warm a given sample of water and
+Juel decided there's a mechanical
+equivalent of heat that um he um there's
+a a a transfer there there's there's an
+equivalence um between work measured in
+energy you know terms like footbounds
+and things like that and heat measured
+in calories and you can convert them and
+also there's no limit to how much heat
+you can generate if you just are doing
+enough work and this head it's you know
+a precursor to that was Count Rubford um
+doing experiments with grinding at um
+cannonballs like if you if you guessed
+not cannonballs um cannon bores
+like if you're grinding away.
+Yeah. So, what people have noticed is
+I don't know what that is. What's a
+cannon bore?
+Okay. So, um how do you make a can? I
+don't know how people make cannons these
+days. Um but the way people made cannons
+back then is you would make a cylinder
+of iron or steel and then you drill the
+the a hole in it. So, the cannon bore is
+the path that the um projectile goes
+through. Right. And right and
+unsurprisingly if you're drilling away
+at a piece of metal right um it gets hot
+right so the process involves I think
+horses you know um driving this this
+um you know drill bit
+bore right yeah um horses driving this
+um drill bit and everything get hot so
+you have to cool it off with water and
+count road did experiments and he got
+convinced that
+um if you've got enough horsepower,
+there's no limit to how much heat you
+can generate. And that didn't fit well
+with the idea that caloric heat is just
+fluid that you're squeezing out of the
+substance because if if there's a finite
+amount of heat in any given substance,
+eventually you think you would run out
+and not be able to um
+generate any more heat by rubbing it,
+right?
+Like you can't sweat infinitely. Yeah,
+exactly. You can't sweat it infinitely.
+Perfect. That's a wonderful analogy.
+Yes. Um eventually you get dehydrate
+dehydrated, right? And so yeah. Um so
+what happened was people um largely due
+to Jules's experiments on the mechanical
+equivalent of heat actually became
+convinced that heat was a form of energy
+similar to the mechanical energy that of
+things moving around and that got known
+that became known as the kinetic theory
+of heat. And along with that is this
+picture of gases for example of being
+full of molecules bouncing around and
+when they're hotter they're they're
+moving faster. Now the interesting thing
+is even though Carnau when he initiated
+what we now call the theory of um quant
+of thermodynamics
+and Kelvin in his very first papers on
+this even though they were thinking of
+heat as this conserved fluid.
+Um very quickly the people who are
+working on thermodynamics got converted
+to the kinetic theory of heat. And so a
+lot of the same people who are
+developing what we now call
+thermodynamics were also working on the
+mechanical theory the um kinetic theory
+of heat or um Clausius had called it the
+um mechanical theory of heat. And so
+Clausius was thinking of heat as
+involving molecules bouncing around. And
+so that raises the question of how
+entropy might actually be realized in
+terms of what's going on with the
+molecules. Right.
+And Clausius has some ideas about that
+which mo are mostly forgotten because
+none of them were very satisfactory. But
+the interesting thing is that I can
+develop the science of thermodynamics
+with independently of the molecular
+hypothesis. Like I can talk about work
+being done at the macroscopic level. and
+thought people he being exchanged
+without really being committed to what
+was happening at the microfysical level
+there.
+Yes.
+And Right. And so Maxwell who is one of
+these people who was at the same time
+participating in the development of what
+we now call thermodynamics and
+participating in the development of what
+we now call statistical mechanics. And
+of course the these are very often
+together in the same textbook these
+days. Um Maxwell said well
+thermodynamics is the study of the
+thermal and dynamical properties of
+matter without recourse without any
+hypothesis as to molecular constituent
+of matter. So according to um Maxwell as
+long as I'm doing thermodynamics I
+should be kind of neutral about whether
+or not matter is composed of molecules.
+If I can just talk about heat and work
+as different kinds of energy exchange
+without being committed to how it's um
+realized in the micro physics, right?
+And um
+some thermodynamics textbooks actually
+do that like some thermodynamics
+textbooks you'll have or actually
+sometimes you have a thermodynamics
+course and then a statistical mechanics
+course and the thermodynamics course can
+actually be completely independent of
+talk about molecules.
+Yes.
+Yeah. Right. And but in other books and
+these usually have the title thermal
+physics rather than thermodynamics. The
+two are handin go hand in hand. I
+actually think there's something to be
+said for the kind of old-fashioned way
+of thinking about it that's still in
+some textbooks is let's you know let's
+talk about thermodynamics
+um
+as science of of exchange of heat and um
+energy develop the try to express the
+basic principles of thermodynamics
+independently of any um particular
+um theories about the the um molecular
+structure of matter and then you know
+you can say okay when once we
+acknowledge that ma matter has a
+molecular structure how does it have to
+be modified h okay why do you prefer
+that
+um
+because it highlights a um difference
+between
+two different forms of the second law of
+thermodynamics
+and here's why
+Um
+so um one um
+one consequence of thermodynam second
+law of thermodynamics is if I have a
+heat engine operating between two heat
+sources and things to different
+temperatures there's a maximum
+efficiency so if you know the efficiency
+is if I pull out a quantity of heat how
+much can I convert to work can I get out
+you know what you want to do is get as
+much work out as possible and then dump
+as small quantity as possible of heat
+back into the um the the lower
+temperature thing. And one consequence
+second law of thermodynamics is given
+any two temperatures there's a maximum
+efficiency of a heat engine um operating
+between heat source and sync at those
+temperatures. Okay. And that's known as
+the carno efficiency carno bound on
+efficiency. Okay.
+Mhm. Now, Maxwell I think was the first
+um and so one way of um
+stating second law of thermodynamics is
+you no heat engine is going to ex have
+an efficiency that exceeds the carinal
+bound. All right. Okay.
+As Maxwell was the first to articulate
+clearly
+if the molec theory of heat is right
+that actually can't be strictly true.
+Why?
+And here in here yeah that's the right
+of course the right question. Why?
+Right. Um because um the if the um
+molecular theory the connect theory if
+you write there's going to be a certain
+kind of unpredictability about how much
+work you're going to actually get
+because these molecules are bouncing
+around more or less at random and the
+pressure of the gas on the piston is a
+matter of the molecules hitting the
+piston and bouncing off.
+And
+on a fine enough scale that that force
+per united area is going to be
+fluctuating because the molecules are
+bouncing around more or less at random.
+Yes.
+And it could happen that you just happen
+to get lucky that during the time you're
+expanding the piston, more molecules in
+than usual or maybe with a higher
+average energy than usual happen to hit
+the piston and you get more work out
+than you would have expected.
+Right. Right. If you say to a physicist
+that okay that shows that the second law
+of thermodynamics can't be strictly
+true, they'll go non nonsense. Right.
+Because what you can't do is completely
+rely on that. Right? Because it could
+happen that I get less than the current
+efficiency. Right? Because I'm Yes. And
+so what physicists these days um
+accept is okay
+at a fine enough scale there's going to
+be these fluctuations in the amount of
+work you you get but if you do it again
+and again again and again on average
+you're not not going to be you're not
+going to be reliably
+able to exceed the car bound.
+It's a statistical law.
+It's a statistical law. Yes. Perfect.
+Yes.
+Yes. And so why I'm so flummixed as to
+why you like the thermodynamics one is
+because I personally don't like the
+thermodynamics view. I very much like
+statistical physics but disliked
+thermodynamics. And so even the
+definition of entropy as a weighted sum
+of logs of probabilities that makes
+intuitive sense to me. I can derive
+something with that and I can make sense
+of picturing balls, billiard balls
+bouncing around. But this DQ over T and
+carno engines, maybe it's because I
+don't build things with my hands. I I
+think
+Yeah, I
+maybe that's the the delineation, but
+you're also a thinker. So I don't know.
+I don't build things um with my hands.
+So um he
+I would exceed the carnal efficiency. I
+would I would do something dangerous by
+accident,
+right?
+Yeah, I don't build things with my
+hands, but I do actually have heat
+engines that other people have built on
+my shelf back there. Um so um yeah so
+here here's why I think it's important
+to distinguish. Okay, so there's
+thermodynamic entropy as Klausius
+defined it and it's totally independent
+of any um hypothesis of a molecular
+structure and its definition requires
+it presupposes for its definition
+the second law of thermodynamics as in
+in one of its formulations like so if
+the second law of thermodynamics is um
+not right then entropy there is no such
+quantity as entropy as as entropy as
+Clausius defined it because it's just
+not going to be true anymore that it
+doesn't matter which reversible process
+you pick to go from A to B to define
+your entropy. Okay, here's here's why I
+think it's important to realize to to
+make clear, okay, that's what
+thermodynamic entropy as clubs just
+defined, it is
+because
+it helps us realize that when you now
+make the move to statistical mechanics,
+the second law of thermodynamics as
+originally conceived actually isn't
+quite right and it has to be replaced
+by, as you say, a statistical law.
+Yes.
+and is the statistical version not the
+original version of of of
+the second law of thermodynamics that
+physicists these days accept. Right.
+Mhm. And then you use words like
+tendency.
+Yeah. Right. And Yeah. So and um Maxwell
+um himself
+said and I think he was the first one to
+to express it this way. The second law
+of thermodynamics is a statistical
+regularity.
+And this is at a time when people like
+were this is like middle of the 19th
+century or actually he said this in
+1878. So but this is a time when people
+are getting like really impressed by
+statistical regularities because this is
+like it was early in the 19th century
+that people really started gathering
+statistics about populations and
+noticing that there were these
+regularities say the number of murders
+per capita in Paris year after year. And
+um that's interest that's interesting
+because these are statistical
+regularities that you can depend on
+year after year of that are averages
+over um aggre aggregates of individually
+un unpredictable events. Right.
+Like you know like if if people could
+predict exactly when and where a murder
+would take then it would would take
+place then it wouldn't take place.
+Right. Right. Right.
+Yeah. So, um uh um
+yeah. So, yeah. So, this is Maxwell
+saying the second law really is just a
+statistical regularity and it has to do
+w with it's similar to the um
+statistical regularities that the
+statisticians who are out and ga out out
+there g um gathering data about
+populations are are doing. And he
+actually gave a talk on molecules to the
+British Association for the advancement
+of physics of science which had
+only recently created a section for
+statistics and the hard scientists were
+kind of looking down on the social
+sciences and he gave this talk on on um
+molecules saying we the physicists have
+adopted methods from the statisticians
+because we're t taking averages over
+large number of quantities of things.
+Right? So um
+interesting.
+Yeah. So yeah, so the law the version of
+the second law that um
+most people accept these days is some
+kind of
+probabilistic or statistically qualified
+thing. The way that Sillard put it in
+the 1920s is
+um you know imagine you know someone who
+is trying to exceed the carno bound of e
+efficiency is kind of like a gambler
+who's trying to break the bank at a
+casino. You might have occasionally wins
+and lo occasional wins and losses but
+there no way you're going to be reliably
+on average going to be able to win.
+Right? Mhm.
+And there, you know, theorems coming
+from a probability theory about the
+impossibility doing of doing that
+because the expectation value of your
+winnings is always negative if the
+casino is doing what's right. And law of
+large numbers says that your your
+winnings per game is going to with high
+probability get closer and closer to the
+expectation value. So some and so you're
+saying the you know the second law
+should be thought of as a similar thing
+right this actually brings in a
+connection with information if you're
+still thinking about
+um thermodynamics as some kind of a
+resource theory
+because if you've got so let me go back
+back to a um I mean suppose you've got a
+fluctuating pressure on your piston if
+you knew when those fluctuations were
+going to happen. Like if you could
+reliably say, "I'm going to pull the
+push-up piston out only when the
+pressure is momentarily higher than
+average,"
+then you could um violate even the
+statistical version of the second law.
+Uhhuh.
+And think of it this way. Rather than a
+piston, you think you've got imagine
+you've got a box with a gas in it and
+there's a partition down the middle and
+a little hole in the middle so the gas
+can go through, right? Okay. So there's
+going to be continually small
+fluctuations in the number of molecules
+on each side as they go back and forth.
+And there's going to be continuous small
+fluctuations in the pressure. And
+suppose it's been doing this for a while
+and then we close the hole and you're
+fairly certain that the pressure is
+greater on one side than other, right?
+Well, if you know which side the
+pressure is greater
+is greater,
+then you could exploit that to um
+to to you know slightly increase a
+piston. And if you reliably knew, you
+know, if you could do this again and
+again and reliably know where the
+greater pressure was, you could violate
+even a statistical version of the second
+law. Right?
+Okay. Okay, so here's the let's go back
+to the ancient question. So, so suppose
+you've got a box of gas in front of you
+and it initially starts out with same
+pressure on both sides and then it
+fluctuates a bit and there's a higher
+pressure on on one side there than
+another and you you close the hole. So,
+um it's stuck like that.
+Yeah. H
+has the entropy decreased? Well, if you
+think okay, you do the standard
+calculations of entropy, you've got um
+it doesn't matter which side the
+pressure is higher
+because the you can just do the standard
+calculation and if you've got a box with
+higher pressure on this side than lower
+pressure on this side, it has a lower
+entropy than a a gas with same pressure
+on both sides, right? And so if you're
+thinking of
+entropy as something that's supposed to
+be just you know a property of the gas
+itself
+then yeah the entropy is is lower it has
+decreased right and there and you will
+say that
+even when you um sorry you mean the
+property of the physical system not the
+gas like not the molecules individual
+molecules of the gas but the physical
+system the whole system
+the physical system is the whole gas
+plus you know whole the whole thing.
+Yes. Okay.
+So the physical system is the gas in the
+box. Right.
+Got it.
+Right. And standard calculation if I
+tell you here's a box with two chambers
+and there's this much gas at this much
+let's say it's the same temperature on
+both sides and you got this much gas at
+this much pressure on this side and this
+much gas at this at this pressure on
+that side. Then the minimum entropy is
+when the two pressures are the same.
+Right. Yeah. Standard um calculation
+that you you learn to do in your intro
+um thermodynamics courses. Okay. Okay.
+So when you have a spontaneous
+fluctuation,
+one thing you can say is well look
+what's happening is the entropy is
+actually spontaneously
+fluctuating around some kind of mean
+value, right? And so there are actually
+spontaneous decreases of entropy, right?
+Um, however,
+here's another way to f phrase suppress
+um question. Um, and I'm going to phrase
+it not in a not in terms of um entropy,
+but in terms of what um Kelvin and
+Maxwell called available energy. So,
+here's a question about available
+energy. Um, available energy is imagine
+I've got some physical system in front
+of you and you've got a heat bath at
+some fixed temperature and I'm task I
+task you with taking it in the state
+it's in and
+try to get as much work out of it as you
+can but I'm going to specify the state
+you have to leave it the system at the
+end.
+Okay? And the available energy is a
+measure of how much work you can get
+out,
+right? And it's equivalent to what we
+now call the helmhold's free energy.
+Right? Okay. Which is total internal
+energy minus temperature times the
+entropy. If a if a gas spontaneously
+fluctuates to a situation where there's
+a more pressure on one side and we close
+the hole,
+has the available energy increased?
+I'd say yes.
+You'd say yes,
+cuz you can now use it to do something.
+Okay. So, how are you going to use it to
+do something?
+If all the molecules are now on one side
+or just more of them. Yeah.
+Okay. More of them. Then you can place
+something here and it will spontaneously
+start to push this guy
+to the left.
+Which side are you gonna place it do
+that on?
+What do you mean?
+Like so so if all molecules are one side
+then you can just have a piston on that
+side. So
+yes, so I have the gas and you know
+let's just say all the molecules on one
+side. Okay. So they're either all on the
+left side or on the right side.
+Yeah.
+And Okay. So what do you what do you do
+to get work out of it?
+You place the piston in the middle point
+that divides it and then you watch the
+piston grow, right? So suppose you want
+to raise a
+So So if I if I just let the piston go,
+then I haven't got any useful work.
+Well, suppose I want to raise a a
+weight.
+Uhhuh.
+What do I do? I I don't know. Well,
+here's the thing. I if I if I hook the
+thing up if I put a piston attach a
+weight to a piston
+then and I want to raise the weight you
+so say I've got the piston I've got a a
+a a string on a pulley you know a pulley
+and you've got a weight that can go up
+or down right you know that
+string and pulley can be either on the
+left side or the right side of the p
+piston and if I don't know which side of
+the gas of the box the gas is in oh
+sorry I didn't realize that you don't
+know which side.
+Yeah. All I said was it's either in the
+left side or the right side. Right.
+I see. Okay.
+Okay. So, right. If you don't know,
+then
+you you know if if you guess right, you
+might say, "Okay, I'm going to guess,
+right, and I'm going to put the piston
+I'm going to, you know, put the weight
+on this side of the piston." And you
+could end up raising it, right? But if
+you guess wrong, you could end up
+lowering the weight.
+Yes.
+Yes. So this is why according to some
+people it makes sense
+um to have
+entropy be a function not only of like a
+physical state of a system but about
+what somebody knows about it.
+Mhm. Because
+if entropy is supposed to have the
+connection that with available energy
+that I just said that is a measure of
+how if available available energy has to
+do with how much work you can get out of
+a system
+that depends not only the physical state
+of the system but
+your means of manipulating the system
+available to you and what you know about
+it.
+Uhhuh.
+Right. And what what I just said, you
+know, is non-controversial. If the
+question is how much work can I get out
+of a system
+that that depends on my means of of of
+manipulating the system and what I know
+about the system, right? This is a
+non-controversial thing. And if you want
+a notion of entropy to have this
+connection to available energy,
+um then it makes sense to have a notion
+of entropy which is relative to means of
+manipulation available and um
+what a state of information about the
+system. And in my experience, I can say
+that to people who initially say to the
+angel question, "Oh, of course not.
+Entropy is patently a property of the
+physical system alone. It's got nothing
+to do with what um
+with with what you might know about it."
+If I say, "Oh, well, if I think of
+thermodynamics as a resource theory
+about a theory about what agents with
+certain goals and certain means of
+manipulation um can do with systems."
+And I want this notion of available
+energy to be a measure of how much work
+you can get out of a system.
+Then clearly available energy can be
+relative to means of manipulation and um
+knowledge about the system. Like it
+matters if you know because if you have
+to do different things to the system to
+get working out out of it depending on
+which side of the box the molecules are
+on then information is a resource,
+right?
+And
+um then and and so there's a perfectly
+no there's a per perfectly um
+acceptable notion of you know this and
+it doesn't matter whether you call it
+entropy or not but there's this notion
+that has that connection to um available
+energy and what are we going to call it?
+Well, if you if you don't like to call
+that entropy, you'll make up a new word
+for it. But it is actually very closely
+related to the concept that um Clausius
+coined the term entropy for. And then
+then the difference between this and um
+the Clausius um notion of entropy is in
+traditional thermodynamics, you know,
+thermodynamics 1.0, You know what people
+were doing in the 19th century, they
+always assumed that even if matter is
+made up of lots of molecules and there's
+these fluctuations at the molecular
+level, we're dealing with them in bulk
+and and any fluctuations are going to be
+negligible. Things might as well be
+predictable.
+And so we can just assume we we know
+what's going to happen as a result of
+our manipulations, right?
+when you start getting down to the
+molecular level and this is what the
+people who are working quantum
+thermodynamics are doing. and they're
+saying, "Okay, yeah, we're working at a
+level where these molecular fluctuations
+aren't negligible."
+And if um
+you know what you really want for a
+notion of um entropy is something that's
+relative say to you know certain
+physical characteristics but also you
+know it might be in this this and this
+this state and um what I can do with it
+you know what how it's going to respond
+to what I'm my manipulations can depend
+on what state it is. So you know um it
+can actually be relative to some say
+probability distribution over prop pro
+over um possible states right
+and then what you get is a sort of
+quantum mechan um what you get is a
+second law of thermodynamics as a sort
+of statistical average.
+Now what happens in like textbooks these
+days is um
+there's basically like even statistical
+mechanics textbooks there there there
+are textbooks that basically take that
+kind of approach and whether you're
+paying attention or not entropy is
+actually defined in terms of a
+probability distribution which can
+represent a state of information about
+the system.
+And then the other way of doing it and
+this is what you wereing
+alluding to otherwise is well you say
+well look given any constraints on the
+system there'll be a set of available
+states
+and there'll be a certain say uh number
+number of possible states available to
+it and then entropy is just proportional
+to the logarithm of the number of
+possible states right
+and um that that so that is is what's
+often called bolt That's one entropy.
+And the other one where entropy is um
+defined in terms of a probability
+distribution is often called Gibbs
+entropy.
+Mhm.
+And they're both perfectly good
+concepts.
+But
+but they have different uses. They're
+different. They're different things and
+they're different uses. So if um I give
+you a box and say pro with probability
+1/2 it's all the molecules are in this
+side and with probability 1/2 they're
+the other side that will have a certain
+gives entropy um associated with it um
+which will have something to do with
+what you can do with it what work you
+can get out go get out of it. Um and
+then you say and and that will vary with
+what those probabilities are like it's
+more use that that I it's more like if
+you have a very high probability that
+they're all on the left side
+that is more valuable to you as a
+resource you're getting work out of than
+if it's 50/50. Right.
+Yes.
+Right. And so if I'm trying to have a
+notion of entropy that is an indication
+of how valuable the thing is as a work
+resource we're getting work out of it
+makes total sense for it to be relative
+to say some probability distribution.
+However you know people will also say
+you know you know if it's either on this
+side or on this side or on that side you
+calculate the Boltzman entropy. If it's
+on this side you calculate the Boltzman
+entropy if it's on the other side it's
+the same. Yeah. Right. Ah, I see. And
+that's also correct, right? So, um, the
+Boltzman entropy doesn't depend on what
+you know about the system. The Gibbs
+entropy does. They serve different
+purposes. These are just different
+concepts.
+And what happens when people make get in
+arguments about whether or not it makes
+sense to um
+when people get argue get in arguments
+about whether or not it makes sense for
+um entropy to be relative to a state of
+information.
+They have in mind different concepts of
+entropy which are defi perfectly well
+defined but for different purposes.
+You know what's better than being clean
+shaven? a clean cloud storage that
+doesn't drain your wallet every month
+for files that you forgot existed. Now,
+here's the physics. Your cloud storage
+follows entropy, which means it tends to
+increase across time. Random
+screenshots, duplicate PDFs, that 4 GBTE
+video from 2019. Clean My Mac's new
+cloud cleanup feature tackles this
+directly. It scans iCloud, One Drive,
+and Google Drive locally on your Mac.
+Your data never leaves your device. This
+identifies the space wasters which eat
+your storage budget. Think of it as a
+dimensional reduction for your digital
+life. You can evict files from the cloud
+while keeping local copies. You can
+remove them entirely. This feature maps
+your storage topology, showing exactly
+where those gigabytes hide. For someone
+processing research papers, podcast
+recordings, and reference materials
+constantly, cloud bloat becomes
+expensive quite quickly. This tool lets
+you reclaim control without manually
+sorting through thousands of files. Get
+tidy today. 7 days free trial. Use my
+code theories for 20% off. Clean my Mac.
+That's coupon code theories for 20% off.
+Okay. When I said probability here,
+the person who's listening may be
+thinking probability of what? And then
+what we didn't say much, maybe you
+mentioned it once or twice, but not much
+is microate versus macro state. So it's
+the probability of a certain macro
+state. What is a macro state? It's seen
+as a count of microates. What is a micro
+state? Well, when people say what is the
+physical system, most of the time on
+this channel when we're speaking about
+quote unquote fundamental physics, we're
+thinking of a micro state. So a macro is
+then what? Like what the heck defines a
+macro state? Is it just us as people we
+say this is something we care about more
+so we're going to call this a macro
+state?
+Yeah. So that's a good question and in
+fact um
+you'll find kind different answers in
+different textbooks because you know the
+people who want
+entropy
+statistical and mechanical entropy to be
+a property of the system by itself they
+usually mean Boltzman entropy right but
+the Boltzman entropy what you do f first
+step you do is you partition the
+possible the set of possible microates
+into macroates
+And you say
+whatever micro state it's in, it's going
+to be in some macro state. And some
+macro states
+correspond to a bigger range of possible
+microates than others. And the ent the
+macroates
+which which are correspond to a bigger
+range of microates have a higher entropy
+than the ones that correspond to a
+narrower range of microates.
+And then a natural and so the entropy
+does change with microate because if the
+microate changes within a macro state
+the entropy doesn't change but if it
+crosses from one m macro state to
+another then the both one entropy
+changes
+but the entropy isn't a property of the
+microate alone because it requires this
+division into macro states which isn't
+there in the fundamental physics.
+Yes. So technically speaking any given
+micro state has entropy zero.
+Um well if you're talking about boltzman
+entropy right
+then in order to define boltsman entropy
+I first have to partition the possible
+states into macro states. Right.
+Right. Okay. And um however if I if I
+tell you
+if I'm going to do like a really really
+fine partition right you say my
+partition is I'm going to tell you you
+know every microate is is in a different
+element of partition I'm going to tell
+you exactly what the microate is right
+then yeah then every of those microates
+will have zero entropy right yeah
+but that's what's that would be kind of
+use that would be totally useless
+So I think that even the people who are
+saying no entropy can't depend on us. It
+can't depend on what we know about it.
+It can't depend on how we can manipulate
+it. If what they're using as their
+notion of entropy is Boltzman entropy.
+It starts with a division um
+a a dividing up the set of possible
+states into macro states. And what and
+you asked right the question well what
+is a macro state?
+Okay. Now, um, one thing that people
+often say is, well, look, um, there's
+certain variables that we're going to be
+measuring, macro variables, and our
+measuring instruments are going to have
+a certain range of of precision. And a
+macro state is a set of microates that
+are indistinguishable according to the
+measurements that we're going to do. And
+then it's not then it's not there in the
+fundamental physics because it's
+relative to um some set of
+it's it's relative to some set of
+measures and some you know some some set
+of instruments some set of measurement
+precisions
+um and um
+I I think that that's that that's
+perfectly fine and then saying okay well
+we're not doing fundamental physics when
+we're doing talk about entropy
+I think that's perfectly fine.
+Um,
+it bothers people because entropy and
+crease is supposed to be one of the
+fundamental laws of the universe and is
+not supposed to depend on things that
+aren't there in the fundamental physics.
+If you're um but you know it just might
+that just might be the right answer,
+right? Um
+like case thermodynamics is not a
+fundamental theory. Right? Now we
+another thing you could say is well what
+really matters is you know if I'm
+thinking about this as a resource theory
+um a distinction between macro states
+well you know I'm going to pay attention
+to distinctions if they make a
+difference to what I can do with them
+and not if they don't. So um if all the
+molecules are on one so
+if I guess if I tell you how many
+molecules there are are on one side of
+the box and how many molecules on the on
+the other that okay that's really useful
+to know because it I can use that to
+expand one side or another. That's good
+to know.
+If all I've got is a piston that can
+expand the things in bulk and I don't
+have the means to manipulate things at
+the micro level,
+you know, you tell me anything beyond
+that, you tell me the exact micro state,
+it doesn't affect what I can do with it,
+right? It doesn't affect what I can get
+out get out of it.
+Yeah.
+And and this and this is something that
+a lot of people misunderstand
+um about Maxwell's demon example. The
+the demon example was meant to
+illustrate the the dependence of
+thermodynamic concepts like entropy
+on
+means of manipulation available.
+Mhm. Like so um um in the the first
+appearance of what we now call Maxwell's
+demon was a um letter from Maxwell to
+his friend Peter Guthrie date Tate Peter
+Guthrie Tate who was writing a sketch of
+thermodynamics
+and um Maxwell said you know you might
+want to pick a hole in the second law
+because he's saying the second law you
+know if the kinetic theory of gas is
+true needs to be modified
+And you know um imagine some you know
+little being that could manipulate
+molecules um individually or you know
+you imagine that he's got a little trap
+door in in between the compartments of
+the uh I'll place a video on screen
+about this.
+Yeah. Yeah. Imagine that that you've got
+gas in a box divided into two
+compartments and it's a little trap door
+and the demon can manipulate the the
+door and let the faster molecules go one
+way and the slower molecules go another
+way. Well, that demon could create
+without expenditure of work or or more
+minimal expenditure of work create big
+pressure differences that now we as
+macroscopic beings could exploit. And
+the moral of the story according to
+Maxwell is that the second law of
+thermodynamics is a statistical
+generalization
+which is applicable only to situations
+where you're dealing with large numbers
+of molecules in bulk.
+And when he says statistical
+generalization, he's expecting his
+readers to be familiar with the sorts of
+statistical generalizations that the
+social sciences are coming up with,
+right? like things like numbers of m
+murders per capita per year say
+um and and if you think about it there
+actually is a nice analogy. So if um if
+you keep sort of the macrolevel
+conditions the same, the socio the
+broadscale socio socioeconomic
+conditions the same then pro you know
+plausibly you're going to get a fairly
+stable number of murders per capita per
+year here in a given um situation.
+Uhhuh. Um but
+you know if you could
+you imagine a team of psychologists
+going in and talking to people if they
+had the ability to um identify people
+who were at risk for committing murder
+or something like that and talk to them
+and deal with them. You know if they
+could deal with people on individual
+scale then you might be able to change
+that per capita per murder. No per
+capita murders per capita right? Um and
+so but um so what um Mat is saying is
+this demon would be able to do what is
+at present impossible for us
+because we do not have the abilities to
+manipulate things at the molecular
+level. He didn't think the way he put it
+made it clear that he didn't think
+there's any fundamental law of physics
+that would present prevent further
+technological developments from getting
+to the point where we could do this.
+Yes.
+Right.
+Um now as a matter of fact um he didn't
+really see this but um
+if you now include the de make the demon
+operate in a cycle
+like so the demon whatever it does has
+to reset itself at the end of each
+iteration of whatever it's doing. Then
+it actually is a consequence of the laws
+of physics both classical and quantum
+that on average the demon can't break
+the second law of thermodynamics because
+like the classical case would be the you
+know if you take the operation of you
+know take the demon plus the whole
+system as an isolated system.
+Yes. Yes. If the demon can
+operate in a cycle while reli reliably,
+you know, putting all the molecules in
+the left side of the box
+that is incompatible with Hamiltonian
+evolution, which conserves phase space
+volume like you would be able to take um
+a a a system that you actually be able
+to reduce the volume of phase space
+occupied with the system. And there's
+something similar in quantum mechanics
+where you've got um you if you've got
+the whole system
+involving isolated um ev evolution then
+you've got you know you can't take
+something that's initially spread out
+over a big subspace of silver space and
+put it into a small subspace.
+And so actually it Maxwell didn't
+realize that that if you require the
+demon to act in a cycle then but there's
+theorems the effect the effect of both
+classical and quantum mechanics that the
+demon cannot reliably and continually do
+this
+precisely what do you mean when you say
+that the demon acts in a cycle?
+The demon has to uh um
+end up in the same physical state it
+started out with.
+Okay. Why do you have to do that? I
+imagine that look, if the demon has a
+brain,
+right,
+and is opening and closing this door,
+then the brain changes.
+Yeah.
+Yeah. Right. So, so here's what people
+were thinking and um yeah, you're right
+to talk about the brain and you know
+people have given simple models of this
+as like not you know not a a creature
+with a brain but maybe a little device
+with like a memory device or something
+like that. Yeah.
+Yeah. Um so that um the idea is that if
+the demon has some kind of memory
+storage, okay, then um and if it never
+ever erases and if it's just it's just a
+so it always remembers what it did on on
+on previous iterations and never ever
+erases anything, eventually it's just
+going to run out of memory. So it can't
+keep on doing this forever and ever and
+ever. And
+if um it has to act in a cycle, if it
+has to like eventually erase the memory,
+then there's actually a entropy cost
+associated with um racing the the the
+memory and that's sometimes known as
+land hours principle.
+Yeah. And it really is just basically a
+consequence of what I just said that if
+you require the demon to act in a cycle
+then it can't consistently and reliably
+um violate the second law.
+So um
+if I don't
+um require the um demon to act in a
+cycle then yeah what it can do is um
+okay think about that blank memory as a
+resource
+and it's doing this and eventually it
+uses up that resource and hands you this
+box with a higher pressure on one side
+the others and said okay good you know
+now you can use to raise a piston or
+something like that. Okay. What all you
+did was you took a resource and you
+converted it to another resource. You
+didn't actually violate the second law.
+Yes. Yes. I see. Okay. So you actually
+have to think about that memory reserve
+that blank memory reserve as having a um
+entropy of its own which um so a memory
+which is just full just blank or maybe
+full of all zeros on this view has a
+lower entropy than a memory that's
+randomly populated by ones and zeros.
+Okay. So let me see if I got this. There
+are two cases. Either it operates on a
+cycle or doesn't. If it doesn't, it's
+going to use up a resource in which case
+you still have a resource. If it does
+operate on a cycle then fundamentally
+you'll be shrinking phase space. Now I
+know that most physical systems shrink
+phase space because there's some
+friction and so on but at a fundamental
+level you don't shrink phase space.
+Sorry you don't shrink the volume you
+initially started with in phase space.
+Abs. Absolutely. Yeah. So when we've got
+when you've got a dissipative system
+like something that's friction, right?
+Um then you write down um equations of
+motion and it will go from you know
+every everything in this original
+version of space will go to that right
+but that's because we're not actually
+thinking that system is an isolated
+system like it's in contact with
+something that's a source of friction,
+right?
+And if you include everything like you
+know the pendulum that's going back and
+forth and dissipated and whatever medium
+it is that's um the source of friction
+and you think of all that is undergoing
+is you know isolated evolution and you
+think okay ordinary Hamiltonian dynamics
+is going to apply then that
+system as a whole is not going to shrink
+phase face what's happening is as the
+pendulum is damped and it goes and you
+know
+aquacks a smaller smaller region of face
+space it's heating up the environment
+warming it up and um B basically it's
+transferring energy to the environment
+increasing its entropy yeah so I have
+some funny questions for you
+okay all right good I can't promise the
+answers are going to be funny
+okay well you're an expert in quantum
+mechanics and quantum field theory and
+I'd like to talk to you about that next
+time in person because you're you live
+actually close by. So hopefully we get
+to meet up shortly.
+For my colleagues in Europe, London,
+Ontario, and Toronto here, Ontario count
+as close. My colleagues in like in the
+Netherlands always find it funny when I
+say things like that.
+So there's a Heisenberg cut that's often
+referenced in when it comes to the
+measurement problem. All right.
+Now, is the partitioning of macroates is
+there an analogy of that as to what we
+think of as a macro state versus a
+microate and the Heisenberg cut for the
+measurement problem or are these two
+separate issues?
+That's a good question
+and
+I will really have to think about I sort
+of see where you're getting at where the
+prima there might be a connection but
+I'm not seeing exactly what the the
+connection might be and it's not
+obviously wrong. So right so I would
+have to think about that. Yeah, there
+might be actually. Yeah.
+My second funny question is, is the
+universe an isolated system?
+Um, is the universe an isolated system?
+You know, can we even talk about the
+universe as a whole? Um,
+presumably yes. If you actually mean
+yes, everything in the universe is, you
+know, if if you literally mean universe
+is everything there is,
+then it seems to logically the case,
+right? However, it's another question is
+does the universe as a whole obey the
+sorts of laws that we usually think of
+applicable to isolated systems? And
+here's here's why this is a um a genuine
+question is it might be that okay for
+like relatively small systems that we
+can actually isolate
+our the physics we apply to isolated
+systems applies but when things are big
+enough that doesn't actually apply and
+what I mean by that is um like in
+quantum mechanics what usually when
+you're asking is the universe an
+isolated system what you usually mean is
+it evolves according to whatever the
+appropriate analog of the trunderer
+equation is and that can be represented
+by a family of unitary operators and
+that you know preserves filbert Hilbert
+space norm and so it can't um start out
+in say you know a small subspace of
+Hilbert space and go bigger right but
+people who take dynamical collapse
+theory seriously
+think that actually this isolated
+fangular evolution that we apply to sort
+of systems in the lab that we isolate is
+actually an idealization and not quite
+right.
+And that if you have systems that meet
+certain criteria, either they have
+enough particles or you know they
+involve displacements of of um large
+masses, then actually the physical law
+is
+a different one that isn't the law that
+we usually think of as isolated and in
+fact mathematically mimics the sort of
+laws that we use for systems that aren't
+isolated.
+as you know as you know because I I know
+you've talked to people about this there
+are dynamic collapse theories right
+which modify the usual short equation um
+and basically you know the origin of
+those was you know people are studying
+um evolution of nonisolated systems and
+saying okay here's what happens to the
+state of the system if it's say in
+contact with the heat bath or something
+like that and then saying well let's
+just imagine that something of this form
+or a sim similar form actually is the
+fundamental law. Okay. In which case the
+it will still be to if that's right it
+it'll it'll still be tautolog
+toologically
+tautologously
+word I went
+yeah whatever
+yeah okay if that's the case it'll still
+be a tautology that the universe is
+isolated but it might be that the way
+the universe as a whole evolves is as if
+it's continually be monitored by some
+external measurer
+yeah okay my other Funny question is
+it's often said that at some point we'll
+reach the heat death of the universe
+and that we won't be able to do anything
+even if we're supposeding that we're
+around or whatever is our descendants.
+Yeah.
+Now do you imagine that to be the case?
+Because
+if we're thinking in terms of a resource
+theory then I could imagine that there
+would be certain questions that would be
+more important to us that would be
+different to us to whatever our
+descendants are. Maybe they are able to
+utilize a system with more precision.
+Absolut absolutely like the way we
+actually calculate entropy is uh and
+this is something that's not often
+emphasized in textbooks is is relative
+to a certain set of parameters that we
+think we're interested in or we're going
+to um manipulate. And for example, if I
+want to um calculate the entropy of a
+some standard volume of gas, the
+question is, well, do I count um GA
+samples of gas with different isoape
+isotope ratios differently? And as long
+as I'm only dealing with things
+chemically, it doesn't matter like how
+much of my oxygen has one is one isotope
+and how much it doesn't. If I'm dealing
+with nuclear reactions or if I've got
+some way to separate out things
+according to their mass then actually
+might be something and so I might want
+to include that in in the entropy
+calculations. So there's a sense in
+which entropy is relative to you know um
+what what it is that you're going to
+manipulate. However, when people are
+talking about the heat death is well, no
+matter what it is that what you what you
+you that you want to do,
+um the natural tendency for things is
+towards theft of themselves is towards a
+diminished ability to do that. Right?
+So, um eventually and it was really in
+the 19th century that people started
+talking about the heat death of the
+universe. Kelvin himself wrote a um
+article called on a universal tendency
+towards dissipation of energy. And so
+what is going to happen if things just
+keep going is the sun's going to burn
+out. And um
+Mhm.
+Okay. pretty much anything that we want
+to do here on Earth. Like no matter what
+your goals are or your means of
+manipulation, it it it um involves some
+kind of entropy difference that
+ultimately traces from the fact that on
+one side of us we've got this um high
+temperature source of um low entropy
+energy and on the other side we've got
+this low temperature empty space that we
+can radiate stuff back to. And
+okay, eventually that's going to run
+out. Um even if you have more subtle
+ways of manipulating things um
+eventually everything's going to decay
+into black holes and you know event no
+matter what your goals are and no matter
+what um means you have manipulation
+eventually things are going to run out
+and just stay that way forever unless
+Roger Penrose is right about his
+conformal cyclical cosmology when you
+know or after that happens then things
+get restarted. Okay.
+But like um so that's true and but
+honestly um we're talking like absurdly
+long time scales like billions and
+billions of years. So um I think we
+should be more worried about whether
+humans going what are things going to be
+like for people on earth in the next few
+centuries.
+you know, um that that is something that
+we can do something about, right? Um and
+what's going to happen on a time scale
+of millions and billions of years is
+actually hard for us to wrap around our
+heads around it. So like like some
+people find this you know heat death of
+the universe is sort of depressing and
+um you know sometimes even people even
+say okay this makes everything
+meaningless. Um, well, you know what?
+You all,
+you know, you've known most of your life
+you're going to die eventually, right?
+And you've got a certain limited amount
+of time to do stuff with, right? And
+do what you can with it while you have
+it. You do, you know, do what, you know,
+make the best of the time that you have,
+right? And that applies on the human
+time scale. And I think the same thing
+we say, you know, you know, suppose the
+human species is only going to be around
+for another million years. Well, I would
+say to that species, you do make the
+best of what you can while with the time
+you have, right? So actually I don't
+find it dep um
+I mean I do get occasionally like you
+know everyone has to deal with the fact
+that you and everyone else that you know
+is mortal and you're you're not you have
+a finite lifespan. I do you know it's
+hard not to have feelings about that. I
+find it difficult to actually have any
+emotions or feelings about what's going
+to happen in a billion years.
+Yeah.
+Disorder.
+Disorder. Entropy. Yeah.
+Disorder is a word that we haven't said.
+Yeah.
+And it's something that many people in
+the popular press when speaking about
+entropy
+make an equivalence between entropy and
+and disorder.
+What's wrong about that?
+Like you have to be careful about what
+you mean about order and disorder,
+right? And so, um, there's a real sense
+of which if I've got a box of gas and
+there's a partition and all the gases on
+one side and none on the other, that is
+a more ordered state than if the if the
+partition is out and there's gases all
+over the place. And there's a
+um and one way of thinking about that is
+that if the gas is indeed allowed to
+roam free freely, you know, it could
+spontaneously end up in one side of the
+box, but that corresponds to a very very
+small region of its phase space, right?
+And so the idea is that there are
+certain kinds of states that we find to
+be ordered and those just are like a
+small percentage of all the possible
+states right and um
+there is a sense in which entropy is a
+measure of um of disorder. So what what
+you're doing you know if when you're um
+let's say I'm generating heat by
+friction like you know I'm grinding this
+cannon boore right
+you know there's a sense in which I've
+got some you regular ordered mo motion
+I've got this thing going around like
+that and I'm taking energy from that
+ordered motion and I'm transferring it
+to the iron in the in the canyon cannon
+which is manifested as sort of higgled
+higgledy piggledy um
+uh Hegel big motion molecules. I think
+what's not right about that is that not
+everything that we would um intuitively
+think of as distinction between order
+and disorder is um
+is actually corresponds to a distinction
+in energy. I'm sorry. Not everything
+that entropy, right?
+Yeah. So, if um
+the easiest way that I think about it is
+a coffee cup and initially it's black
+with black coffee, you know what I'm
+saying? And then you pour some milk
+and then there's all this turbulence and
+you'd say, "Oh, that's extremely
+disordered." And so you stir it and then
+you're like, "Oh, wow. Now it's
+extremely ordered, but it actually has
+the highest entropy."
+Yeah. Right. Yeah. So, yeah. I mean,
+that that's that's a good that's a
+really good example because
+there are some things that seem more
+disordered to us that are actually lower
+entropy. And that's a really good
+example. You've got, you know, before
+the um milk, it's actually better if
+it's cream because the cream can can
+take some time to sort of dissolve to
+disperse, right?
+Yeah. So, if I've got, you know, if if I
+take some thick cream and put in the
+coffee coffee cup, I might have these
+swirls of cream in there, right? And
+that seems, you know, can be very
+turbulent and disordered and then it
+settles down to a situation where the
+cream is evenly distributed. And that is
+a higher entropy state than the
+intermediate state. But it might it
+seems to us like a simpler state like
+more
+and so that's and that's why it's
+important to think actually in terms of
+you know order and disorder on the
+molecular level and also um not
+everything that we think of as more or
+less ordered um um um really um
+correspond to be differences. So when
+gravity is um come into play comes into
+play the natural tendency if I've got a
+you know a a bunch of gas spread out in
+in interstellar space the natural
+tendency for is is it for it to
+gravitationally clump together
+and so the clumpy
+right and so a a bunch of gas uniformly
+spread out which clumps together and
+forms a star that's actually an entropy
+increasing process even though
+Intuitively, you might think the end
+state is more ordered than the initial
+state.
+And so if you're thinking sort of as a
+rough and ready way, there is a sense in
+which molecular disorder and entropy go
+together. It's not a reliable guide. And
+I think what sometimes people think
+about um when they mean order and
+disorder is actually something a bit
+different in what um people sometimes
+call um complexity. So Sean Carroll was
+here um sometime last year and he was
+talking about origins of complexity and
+what people who study complexity you
+know that is another really spite
+precise difference is that you know tend
+to say is neither the
+minimum nor maximum entropy states are
+the most complex
+there's a sense right um
+yeah something we didn't speak about
+that comes to mind is erodicity.
+Erogodicity. Yeah.
+So are the laws of physics urgotic? Is
+that a well- definfined statement? And
+also please define what erotic is.
+Yeah. So um classically
+um erodicity
+um pertains to a system confined to a
+finite region of a state space and
+undergoing isolated evolution. And to be
+orotic means that take virtually any
+initial condition you want and take any
+reinite region of faith space eventually
+that initial condition ends up in that
+region of phase space.
+And for actual physical systems um it's
+um very difficult to decide you know if
+I hand you like here's a law of dynamics
+and say is this orgotic or not it's
+actually diff very mathematically
+different difficult problem to actually
+decide right um so
+of course that was a classical
+definition um the um laws of um physics
+deep down we know aren't classical in in
+quantum mechanics basically you know
+that um definition of of erodicity like
+a state just you know doesn't doesn't
+really apply. There are um
+um things that are called quantum
+erodicity theorems which basically have
+have the effect that um any any state
+can be you know approached um as closely
+as possible. Um, do the actual are the
+actual laws of physics um
+like if I if I actually took say a
+box of gas and um yes um somehow another
+isolated it and let it go according to
+ordinary quantum evolution. Um
+there is there there there is a sense in
+which um something like our godicity
+applies in in that you know um if you
+look at sufficiently long time averages
+then the amount of time it'll spend in
+in a given subspace um will be for
+almost all initial states proportional
+to um the dimension of that subspace.
+Um I'm not sure that uh and um something
+of that sort of flavor often comes in
+when people are trying to um when people
+are trying to prove equilibration
+results. So you want you know what you
+what we haven't talked about is this
+sort of process of you leave something
+alone. It starts out from a far state
+and then it it goes to a equilibrium
+equilibrium state and that's sometimes
+called the minus first law of
+thermodynamics. Right. Right.
+Yeah. We haven't talked about that. And
+one of the reason we haven't talked
+about that is that um
+it's hard to say anything really precise
+about that because there's various
+results and it's not always clear. you
+get nice clean mathematical results
+whose physical significance
+for actual systems is a bit obscure and
+then you get sort of plausibility result
+arguments for actual physical systems
+and I actually think that
+air godicity in any sense which really
+has to do with infinite long-term um
+average behavior
+really isn't the right question because
+what I want to know if I pour for the
+milk in the coffee cup, right? Not what
+it's going to do on average if you left
+it alone isolated for all eternity, but
+what is what is it going to do in the
+next few minutes? Like you want to you
+to to know actually what's going to
+happen in finite time scales. So
+statistical mechanics textbooks are
+divided on whether um godicity is
+actually important for statistical
+mechanics. Some this some will say okay
+this erotic hypothesis is at the root of
+um statistical mechanics the hypothesis
+that actual systems are erotic and then
+others will say oh there's all this ma
+you really nice mathematical work having
+to do with erodicity and it's completely
+irrelevant to statistical mechanics.
+Okay, here with the cream and the coffee
+cup, we only have to wait a few minutes
+and so it's not infinite. It's not t
+goes to infinity. However, Nema Arani
+Hamemed also talks about how
+with particle physics, particle physics
+occurs at the boundary. Why? Because in
+the math, we're scattering from minus
+infinity to plus infinity. And yes, it
+takes place in just a few milliseconds
+or a few seconds or what have you. But
+for
+for the calculations, we just use
+infinity. Now he seems to be using the
+opposite argument that you just used. So
+would you be able to convince him? No,
+no, no, Nema. It's actually not
+happening at infinity. It's not at the
+boundary. Well, yeah. So when he says
+happening at infinity, I think one one
+thing you have to realize is that when
+um physicists say infinity,
+what they often mean isn't literally
+infinity, but large enough that it
+doesn't really um matter how big it is.
+There's a nice book um called by by
+called Understanding the Infinite by a
+philosopher named Sean Lavine and he
+introduces what he calls the theory of
+zillions and a zillion is the technical
+term.
+I see.
+A zillion is a number that's so big it
+doesn't really matter how big it is.
+Okay?
+So it's context dependent, right? And if
+you think about it, that's sort of how
+we use the word. Like if I say, you
+know, if someone says, Wayne, you go
+back you go to conferences so much. Why
+don't you just buy a Learjet, right? And
+I would say, well, you know, that costs
+like a zillion dollars, right? I have no
+idea what a Learjet costs, right? But I
+do know that whatever that cost is is so
+be far beyond my own financial um
+resources, it doesn't really matter
+exactly how big it is, right? And when
+and um one of my colleagues said, you
+know, we have to um realize in quantum
+field theory, you know, asmtopic
+infinity is like five meters, right?
+Because What you do when you're doing
+these scattering experiments, right,
+what you're doing is there's a
+relatively small scattering region,
+right? And far enough from that
+scattering region, the the field is
+effectively free, right? And then so you
+and and so you're basically taking in
+and out states as if you know as if
+they're free fields. you're doing your
+calculation and you're c calculating
+scatterings cross-sections etc for
+effectively free fields and really what
+you know you you'll say add infinity but
+and mathematically you might take you
+know the limit as things go to infinity
+because that's a nice clean clean
+physical result but what you really mean
+is
+this is a good approximation far enough
+from the scatter scattering a region
+that the interactions can be neglected.
+Right? And I think that that's what he
+means when when he says the interesting
+stuff happens at infinity, right? And so
+with the um with with something like
+that, if I've got an interaction and I
+have a sense of how fast the interaction
+falls off with distance, I can get a
+sense of how far I have to be from the
+scattering region to say, okay, these
+are effectively free fields, right?
+What you we want from equilibration
+results
+is some result about okay how long do I
+have to wait till I say okay yeah we're
+effectively at infinity because the
+thing has equilibrated and that's what
+you're trying to get out of the
+equilibration results and it's not as
+simple because it's not as simple as in
+the quantum case because in the quantum
+case you've got these distance dependent
+forces and you know how fast they they
+um drop off. And what you're trying to
+find out in the equilibration case is
+well, how fast does something
+equilibrate? You know, how fast does it
+get to the point where I can basically
+ignore the fact that it was um in um out
+of equilibrium at the beginning. Yeah.
+Okay. I have another funny question.
+Yes. Okay. So Natty Cyborg said that one
+of the ways that we can an indicator for
+quantum field theory being on shaky
+foundations or or not firm foundations
+is that
+we teach quantum field theory
+differently.
+So almost no textbook in quantum field
+theory is the same and almost no course
+is the same. So some person may say
+let's start with scalar fields and then
+add interactions and then some person
+may say well let's start with all free
+fields and then add interactions another
+is a functional pro so on and so on.
+So
+that's not a controversial statement
+that QFT isn't firm,
+right?
+But what I'm wondering is do you
+personally Wayne have an idea as to a
+field or a sub field this particular
+subject in physics that other people
+think no this is well understood but you
+think actually there is trouble here.
+Well, I think that um statistic
+mechanics is a case in point because
+people um textbooks are written to get
+give the impression that we we
+understand everything and this is all
+worked out. And um
+if you actually go from one textbook to
+another, you'll find very different
+approaches. Like in quantum field
+theory, everyone knows that there's
+different approaches and statistical
+mechanics is sort of swept under the
+rug. And so that is one case where I
+think there are real questions about the
+rationale for certain kind of um methods
+that get kind of um swept under the rug.
+And the thing about thermodynamics is
+this thermodynamics is sort of sim even
+though we don't think of it as
+fundamental cutting edge um science it's
+got its roots in 19th century physics
+different thermodynamics textbooks can
+will take very different approaches and
+I think that the root of that is that um
+there's sort of different conceptions
+about what thermax is supposed to be. So
+one is one conception is what I call um
+you the sort of the resource theoretic
+conception where it really is about what
+you can do with various things but what
+people usually want from a um
+thermodynamics textbook especially if
+it's chemical
+you know preparing people for doing
+chemical thermodynamics is you want to
+figure out what the equilibrium states
+of a system are and those are the ones
+that maximize entropy And a a um a a
+textbook with that orientation will
+tend to minimize talk of
+manipulations and doing work and things
+like that and treat entropy as if it
+it's simply a property of matter like
+mass and other things. Yeah.
+I think in a lot of areas um
+actually the textbook tradition will
+sometimes obscure different ways of
+thinking about the this the theory
+and so the question is in what areas of
+are there where there's a sort of
+settled everyone agrees on how to do
+this um guess classical electron
+dynamics you know every single textbook
+in existence is a copy of JD Jackson's
+Mhm.
+Um you know, yeah. And and and I think
+it is a um yeah, that's possible because
+there is this there is this theory that
+we call classical electronamics that we
+think has been um superseded by quantum
+electronamics. So we can all agree on
+what classical electronamics is because
+it's not
+it's in a sense a closed book.
+Uhhuh.
+Yeah. And um quantum field theory um is
+a continuing area of active research.
+And yeah so one of the different one of
+the reasons for the difference
+approaches in quantum field theory is we
+just don't have a good mathematical as
+good a mathematical grip on the theory
+as we do other areas of of physics.
+Right.
+um you know you write down a um
+lrangeian standard model lrangeian and
+is this a well- definfined you put in a
+cutoff and um you know if you let the
+cutoff go to infinity you have um you
+have blowups which you have certain
+techniques for regulating
+is that telling us that
+the theory we wrote down actually isn't
+well defined at all at ally
+and um or are these cut offs that we're
+introducing just a calculational tool
+for getting at the um conse consequences
+of a well- definfined theory. I think
+that as far as I understand it um and
+you know there are people who are much
+more on the literature I actually think
+that that's still more or less an open
+question and I think the standard view
+that is it doesn't really matter whether
+the theory we're writing down is well
+defined at all energies because we think
+that it it's an effective field theory
+valid at certain energies and we really
+don't know what's going on beyond those
+energies.
+Yeah.
+But you don't buy that answer or what?
+No, I think that's right. I think that's
+right. So that's that's why we can we
+can get away with actually not knowing
+the answers whether the theory we write
+down is actually well defined at all
+energies.
+Like if that's your attitude, then it
+doesn't really matter whether it is.
+Yeah.
+What's a lesson you learned too late?
+What is a lesson I learned too late?
+Um
+and I'm assuming you want to know about
+you know physics and philosophy of
+physics and not about my personal life.
+Um
+um
+oo
+so this okay this idea that um you know
+what I've been saying about
+thermodynamics that there's two
+different conceptions of what what the
+theory is but we have resource theory
+um um consider conception and this you
+know other conception according to which
+is more like mainstream physics um that
+took me a surprise urprising amount of
+time to actually get clear in my own
+head about. But now I think it's really,
+you know, it should be like one of the
+first things that anyone says when
+they're talking about um thermodynamics.
+And as you know um I've given talks
+several times with the title a tale of
+two sciences both called thermodynamics.
+Mhm. And yeah really it only is you know
+relatively recent years I saying okay
+that's the way I I want to be thinking
+about that
+now
+many people watch this channel who are
+researchers in math physics computer
+science so adjacent fields
+and philosophers and and there's also
+lay people that watch
+so I'm curious what advice you have that
+you give to your graduate students but
+also advice that may apply to this wide
+gamut of people that much. Okay. I would
+say here's advice I give to my um grad
+students when they're and this will
+apply to like researchers in any field
+if they're just starting out or
+something like that is
+when you're choosing what things to um
+when you're choosing what what things to
+work on.
+What you should not do is look around
+and say, "Okay, what's the hot topic?
+What's the popular thing?" and jump on
+the on the current bandwagon. And for
+two reasons, if you're doing something
+because you think it's popular and
+you're not particularly interested in
+it, well, if you're not interested in
+your work, there's just no way you're
+going to get anyone else interested in
+your work, right? And also if you're
+jumping on a bandwagon and then you're
+you know applying for jobs and you're
+submitting your things you've written or
+you're submitting parts of your
+dissertation for publication.
+My experience as an editor I was editor
+of a um philosophy physical journal for
+a number of years. My experience of as
+an editor if you get when we get a paper
+which is um
+the nth minor
+addition to a well-worn topic
+the threshold for that being worth
+publishing is very very high because
+right you don't want to publish even if
+what you're saying is correct one of the
+things you're asking is okay if this is
+going to take up journal space is this
+actually a significant advance over
+what's out there in the literature
+And um really like um if something's a
+hot topic then people are going to get
+tired of it fairly quick. So
+um do something that you're interested
+in. But don't choose a a something just
+so narrow that like only three people
+are going to have an idea what you're
+talking about. sort of sort of happy
+medium between, you know, choosing a a
+um research topic that some people are
+gonna have some knowledge about and
+jumping on the bag bandwagon and doing
+what everyone else is doing.
+Yeah.
+Okay. So, let's imagine you were
+speaking to your PhD and posttock
+students who want to get a job in the
+field,
+right?
+I imagine that at some point they have
+to maybe not jump on a bandwagon but
+hitch a ride occasionally because don't
+you have to get grants? Don't you have
+to
+be marketable?
+Okay.
+So, how do you navigate that?
+So, my um teacher Abner Shimon, I had
+the honor of working with him at Boston
+University when I was a grad student. Um
+yeah, he one of the things he would say
+is just as Aristotle taught us that
+ethical virtues are means between
+opposing vices, intellectual virtues are
+also means between opposing vices. And I
+think when you're choosing a research
+area, there's two opposing vices. One is
+choosing something that's such a niche
+area that no one's only three people in
+the world are going to have any idea
+what you're talking about. And I think
+the other vice is jumping on a bad
+bandwagon and doing what everyone else
+is doing. And I think the the reason I
+mentioned that other vice first is I
+think there's an mistaken impression out
+there that that's what you're supposed
+to do. That's what you should be doing.
+All right? And I think that that's a
+mistake. And the this is based on my
+experience as an editor and also talking
+to other people in the field who edit
+journals and also talking in my
+experience as um on panels
+grants and things like that is um sure
+like if someone read reading something
+and says I have no idea what this is
+about. Okay, that's that's a you know
+that's a tough cell, right? But if
+you've got um
+a dozen grant applications in front of
+you and 10 of them are minor variance on
+the same thing and what they're going to
+do is at best advance make a minor
+advance in a well-worn field. And
+another one is an interesting and
+promising
+research project that is worth doing but
+relatively unexplored. that's actually
+going to count in favor of the one
+that's doing worth doing and relatively
+un unexplored.
+There's this idea that I think is just
+simply false that there's sort of group
+think and everyone wants to only give
+grants to to to what they think everyone
+else is doing. I think that that's just
+false.
+Um so um
+and in terms of getting getting jobs um
+let me tell you this is a true story.
+Many many years ago, I was on a we were
+hiring at the University of Western
+Ontario and I was on the hiring
+committee and we had a job ad which was
+fairly broad. And what had happened is
+in one of the areas of um
+in one of the areas of specialization
+that was included in the job ad, a
+bigname philosopher had recently
+published a book that was getting a lot
+of attention. And what happened was
+everybody in the world did a grad
+seminar on this book. And I was sitting
+there reading these applications. This
+was back in the days when people
+actually f you sent us paper
+applications and there's a file box with
+all the applications in it and you take
+it into your office after hours and
+you're going through it, right? Ah,
+and um I was reading the writing sample
+of one s one one um candidate and I said
+I read the open paragraph and going
+didn't I just read this? I'm going, "Oh
+my god, one of our applicants has
+plagiarized a writing sample from
+another applicant." And then I went back
+and got that other file and they were in
+fact different, but the opening
+paragraphs were almost word for word the
+same because this was this issue that
+everyone was talking about and there was
+a very standard way of setting up the
+issue. I see. So if you want people to
+actually confuse your writing sample
+with someone else's, then jump on a
+bandwagon.
+Interesting. So this also applies to
+film
+Mhm.
+and businesses in general. You don't
+want to be in the red is said to be the
+red contested waters. You want to be in
+the blue ocean.
+I'm not familiar with that terminology,
+but I'll believe you. Yeah. Right. Yeah.
+You just referenced I could be I could
+give you a personal lesson, but instead
+I'll give you a lesson that applies to
+philosophers and physicists.
+And that has me curious, what would be
+the personal lesson that you learned too
+late? And something not trivial like,
+"Oh, I learned to I I should double bag
+my groceries."
+Um,
+let's see.
+lesson in my personal life that I think
+I learned too late. Um
+if there are toxic people in your life,
+um avoid them.
+Yeah. Yeah. be be around be around
+people that um you're comfortable around
+and you feel good around and um try try
+to minimize your contact with the toxic
+people.
+Thank you so much for spending so much
+time with me.
+Well, thank you. I've really enjoyed
+this. Well, it's been two it feels it's
+been two hours. It feels like it just
+flew by.
+Yes, that's always a great sight. In
+fact, in Harry Potter, I think there was
+a a sands of time and then Harry asks
+the professor, "What is this?" Because
+it was a different type of sands and
+then the person said, "It stands still
+when the conversation's engaging."
+Well, that's good. Actually, I have
+another life lesson which I heard early
+in my life, but I am to this day not
+particularly good at applying.
+Okay. And this is some this was an
+interview that I heard on the radio as a
+teenager with um David Lee Roth, right?
+Um who was big at the time when I was a
+teenager. And he he said, "Here's my
+life lesson. Don't sweat the little
+and it's all little shit."
+Interesting.
+I mean, I don't think it's actually true
+that it's all little but I think a
+lot of I I think the don't sweat the
+little is something a lot of us
+have difficulty um
+um applying that we end up um fussing
+too much about things that in the long
+run aren't really important,
+professor.
+Okay.
+Thank you.
+Well, thank you very much. Thank you
+very much. I really enjoyed this and I
+hope out of this mess you can put
+together something reasonably. You and
+your editor can put something together
+reasonably.
+All right, thank you.
+Hi there, Kurt here. If you'd like more
+content from Theories of Everything and
+the very best listening experience, then
+be sure to check out my Substack at
+curtjongle.org.
+Some of the top perks are that every
+week you get brand new episodes ahead of
+time. You also get bonus written content
+exclusively for our members. That's c ur
+t j a i mu n g a l.org. You can also
+just search my name and the word
+Substack on Google. Since I started that
+Substack, it somehow already became
+number two in the science category. Now,
+Substack, for those who are unfamiliar,
+is like a newsletter, one that's
+beautifully formatted. There's zero
+spam. This is the best place to follow
+the content of this channel that isn't
+anywhere else. It's not on YouTube. It's
+not on Patreon. It's exclusive to the
+Substack. It's free. There are ways for
+you to support me on Substack if you
+want, and you'll get special bonuses if
+you do. Several people ask me like,
+"Hey, Kurt, you've spoken to so many
+people in the field of theoretical
+physics, of philosophy, of
+consciousness. What are your thoughts,
+man?" Well, while I remain impartial in
+interviews, this Substack is a way to
+peer into my present deliberations on
+these topics and it's the perfect way to
+support me directly. Kurtjongle.org
+or search Kurtjong Substack on Google.
+Oh, and I've received several messages,
+emails, and comments from professors and
+researchers saying that they recommend
+Theories of Everything to their
+students. That's fantastic. If you're a
+professor or a lecturer or what have you
+and there's a particular standout
+episode that students can benefit from
+or your friends, please do share. And of
+course, a huge thank you to our
+advertising sponsor, The Economist.
+Visit economist.com/toe
+to get a massive discount on their
+annual subscription. I subscribe to The
+Economist and you'll love it as well.
+toe is actually the only podcast that
+they currently partner with. So, it's a
+huge honor for me and for you. You're
+getting an exclusive discount. That's
+economist.com/toe.
+And finally, you should know this
+podcast is on iTunes. It's on Spotify.
+It's on all the audio platforms. All you
+have to do is type in theories of
+everything and you'll find it. I know my
+last name is complicated so maybe you
+don't want to type in Jimongo but you
+can type in theories of everything and
+you'll find it. Personally I gain from
+re-watching lectures and podcasts. I
+also read in the comment that toll
+listeners also gain from replaying. So
+how about instead you relisten on one of
+those platforms like iTunes, Spotify,
+Google podcasts. Whatever podcast
+catcher you use, I'm there with you.
+Thank you for listening.

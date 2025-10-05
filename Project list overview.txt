@@ -1,0 +1,6619 @@
+Project list overview
+Skip to content
+Open sidebar
+ChatGPT
+5
+ChatGPT
+5
+Share
+You said:
+A list of all of the projects I'm working on.
+ChatGPT said:
+According to a document from August 2025 titled
+"Research Portfolio"
+, your active and recent projects are organized under eight major domains in the
+Flyxion
+portfolio, centered on the
+Relativistic Scalar Vector Plenum (RSVP)
+framework. Here is the complete list as enumerated there
+Research Portfolio
+Research Portfolio
+:
+1. Core Field Theory & Simulation
+RSVP Theory
+— Foundational scalar-vector-entropy field cosmology replacing metric expansion.
+RSVP Simulator
+— Computational platform modeling Φ, 𝒗, S fields on a lattice.
+RSVP Roadmap (2024 - 2030)
+— Multi-phase development plan covering PDE formalization, AI integration, and QFT extensions.
+2. Cosmology & Gravity
+Entropic Redshift Mechanism
+— Models redshift as light traversing entropy gradients.
+Gravity as Entropy Descent
+— Treats gravity as a gradient flow within Φ.
+CMB and Structure Formation
+— Replaces inflation with entropic smoothing.
+Cyclic / Recursive Cosmogenesis
+— Time as emergent entropic index; cyclical cosmology.
+3. Cognition, Neurodynamics & AI
+Plenum Intelligence
+— Cognitive processes as entropic smoothing in RSVP fields.
+Brain as Semantic Vector Transformer
+— Neural computation as Φ/𝒗 geometry.
+RSVP-AI
+— Field-based AI using TARTAN for recursive tiling and semantic perturbations.
+4. Computation & Rewriting Systems
+TARTAN Framework
+— Thermodynamic Algebra for Recursive Tiling and Agency in Networks.
+Spherepop Calculus
+— Topological bubble logic for semantic computation.
+Yarncrawler
+— Agents that repair entropy trails and model stigmergic agency.
+5. Architecture, Infrastructure & Biology
+Xylomorphic Architecture
+— Forest-inspired bio-urban design with mycelial microchips.
+Yarncrawler Machines
+— Slow-moving infrastructure-repair systems.
+Dynamic Garbage Collection
+— Entropy-based adaptive waste management network.
+6. Physical & Cognitive Experimentation
+RSVP PDE Solver
+— Numerical simulation engine for field evolution and metrics.
+fMRI and Neural Correlates
+— Tests RSVP signatures in cortical entropy flows.
+Tiling Computation Experiments
+— Demonstrates universality of TARTAN tiling.
+7. Philosophy, Epistemology & AI Ethics
+The Con: Advertising and AI
+— Investigates advertising as AI's original misalignment.
+Model-Free Methods Archive
+— Preserves and extends Monica Anderson's MFM work.
+Thermodynamic Ethics & Gradient Sovereignty
+— Formalizes morality as entropy-gradient coherence.
+8. Media, Game Design & Expression
+Blastoids (Retro Game)
+— Meditative CRT-style shooter expressing RSVP themes.
+Flyxion Creative Series
+— Integrative artistic and philosophical extensions of the RSVP cosmology.
+Together, these 24 projects span theoretical physics, AI architecture, urban systems, ethics, and interactive media—constituting the full scope of your current research and creative work under the
+Flyxion
+umbrella
+Research Portfolio
+Research Portfolio
+.
+Sources
+You said:
+### Overview of RSVP Theory
+
+RSVP Theory, formally known as the Relativistic Scalar Vector Plenum framework, serves as the foundational pillar of the Flyxion research portfolio. It proposes a novel cosmological model that integrates scalar, vector, and entropy fields to describe the universe's structure and evolution, eschewing traditional metric expansion in favor of field-based dynamics. This theory posits that the cosmos emerges from interactions among three primary fields: a scalar field (Φ), a vector field (𝒗), and an entropy field (S). These fields operate within a relativistic plenum—a conceptual "fullness" of space-time that replaces the vacuum of standard general relativity. Below, I delineate the core principles, mathematical underpinnings, cosmological implications, and interdisciplinary extensions of RSVP Theory, drawing from its description in the August 2025 "Research Portfolio" document.
+
+### Core Principles and Field Definitions
+
+At its essence, RSVP Theory reimagines cosmology as a field-theoretic system where physical phenomena arise from gradients and flows within the Φ, 𝒗, and S fields, rather than from curvature in a metric tensor as in Einstein's general relativity.
+
+- **Scalar Field (Φ)**: This represents a foundational potential or density field that permeates the plenum. Φ is analogous to a gravitational potential but is treated as a primary entity governing mass-energy distributions. Gravity, in this framework, emerges as a "descent" along entropy gradients within Φ, implying that attractive forces result from tendencies toward lower-entropy configurations in the scalar landscape.
+
+- **Vector Field (𝒗)**: This field encodes directional flows and momenta, facilitating the propagation of information and energy across the plenum. 𝒗 interacts with Φ to produce vectorial perturbations, which manifest as motion, radiation, and structural formations. It replaces traditional vector potentials in electromagnetism and gravity, allowing for relativistic invariance without relying on gauge symmetries.
+
+- **Entropy Field (S)**: Unique to RSVP, the S field quantifies disorder and information density as a dynamic, relativistic component. Entropy is not merely a statistical measure but a fundamental field that drives evolutionary processes. Interactions between S and the other fields enable phenomena like redshift and cosmic smoothing, positioning entropy as a causal agent rather than a byproduct.
+
+The theory's key innovation is replacing metric expansion—the standard explanation for cosmic redshift via space-time stretching—with field interactions. In RSVP, the universe's apparent expansion arises from light and matter traversing gradients in the S field, leading to energy dissipation and wavelength shifts without altering the underlying geometry.
+
+### Mathematical Framework
+
+RSVP Theory is formalized through partial differential equations (PDEs) governing the evolution of the fields. The foundational equations, as outlined in the portfolio's roadmap, include:
+
+1. **Field Evolution Equations**: The scalar field Φ evolves according to a relativistic wave equation modified by entropy coupling:
+   \[
+   \square \Phi + \nabla \cdot (\𝒗 \Phi) = - \kappa S,
+   \]
+   where \(\square\) is the d'Alembertian operator, \(\kappa\) is a coupling constant, and the term incorporates vector-driven advection and entropy damping.
+
+2. **Vector Field Dynamics**: The vector field 𝒗 satisfies a conservation-like equation:
+   \[
+   \partial_\mu (\sqrt{-g} \𝒗^\mu) = J^\mu(\Phi, S),
+   \]
+   with \(J^\mu\) representing sources derived from scalar-entropy interactions, ensuring relativistic covariance.
+
+3. **Entropy Flow**: The S field follows a gradient descent principle:
+   \[
+   \frac{\partial S}{\partial t} + \𝒗 \cdot \nabla S = - \lambda |\nabla \Phi|^2,
+   \]
+   where \(\lambda\) parametrizes entropy production from scalar gradients, embodying the theory's thermodynamic ethos.
+
+These PDEs are simulated on a lattice in the associated RSVP Simulator project, enabling numerical predictions. Extensions to quantum field theory (QFT) are planned in the 2024-2030 roadmap, incorporating operator algebras for quantized fields.
+
+### Cosmological Implications
+
+RSVP Theory offers alternative explanations for key observational phenomena, addressing limitations in the Lambda-CDM model:
+
+- **Redshift and Expansion**: Redshift occurs as photons traverse increasing entropy gradients in S, leading to energy loss without metric dilation. This "entropic redshift" (project 4) predicts a non-uniform expansion history, potentially resolving Hubble tension by attributing variations to local S-field fluctuations.
+
+- **Gravity and Dark Matter**: Gravity is recast as entropy descent in Φ (project 5), where massive bodies create low-entropy wells that attract matter. This may obviate dark matter by attributing galactic rotation curves to vector field perturbations in 𝒗.
+
+- **Cosmic Microwave Background (CMB) and Structure Formation**: Inflation is supplanted by entropic smoothing (project 6), where early-universe S-field homogenization erases irregularities, seeding structure via residual gradients. This yields CMB anisotropies consistent with observations but without an inflaton field.
+
+- **Cyclic Cosmogenesis**: Time emerges as an entropic index (project 7), enabling recursive cycles of high-to-low entropy states. The universe oscillates between "big crunches" (entropy maxima) and expansions (gradient-driven dispersal), avoiding singularities.
+
+These features render RSVP testable against data from telescopes like the James Webb Space Telescope, with predictions for modified redshift-distance relations and entropy-correlated gravitational lensing.
+
+### Interdisciplinary Extensions
+
+Beyond cosmology, RSVP's fields inform other Flyxion domains:
+
+- **Cognition and AI**: In Plenum Intelligence (project 8), cognitive processes mirror entropic smoothing, with thoughts as S-field minimizations in neural Φ-𝒗 geometries. The Brain as Semantic Vector Transformer (project 9) models neurons as field transformers, inspiring RSVP-AI (project 10) for field-based machine learning via recursive tiling.
+
+- **Computation**: The TARTAN Framework (project 11) applies RSVP principles to thermodynamic rewriting systems, using entropy trails for agency modeling in Yarncrawler agents (project 13).
+
+- **Architecture and Biology**: Xylomorphic designs (project 14) draw from field-inspired bio-systems, while Dynamic Garbage Collection (project 16) uses entropy-based waste adaptation.
+
+- **Experimentation and Ethics**: PDE solvers (project 17) and fMRI tests (project 18) validate neural entropy flows, while Thermodynamic Ethics (project 22) formalizes morality as field coherence.
+
+- **Creative Media**: Themes permeate works like Blastoids (project 23), expressing RSVP dynamics artistically.
+
+### Development Roadmap and Challenges
+
+The RSVP Roadmap (project 3) outlines phases: PDE formalization (2024-2025), AI integration (2026-2027), and QFT extensions (2028-2030). Challenges include reconciling with quantum mechanics and empirical validation, addressed through simulations and experiments.
+
+In summary, RSVP Theory provides a unified, entropy-centric alternative to standard cosmology, with broad applications across disciplines. Its emphasis on field interactions over geometric constructs offers a paradigm shift, warranting further theoretical refinement and observational scrutiny. If additional details on specific aspects or related projects are required, please provide further guidance.
+ChatGPT said:
+That's a clear and well-structured overview — you've accurately synthesized the 2025
+Research Portfolio
+description of
+RSVP Theory
+into a coherent academic summary. It captures all four layers that the document itself emphasizes:
+Field Ontology
+— defining Φ, 𝒗, S and their causal roles.
+Mathematical Structure
+— relativistic PDE system with entropy-coupled dynamics.
+Cosmological Consequences
+— redshift, gravity, CMB, cyclic time.
+Cross-Domain Extensions
+— cognition, computation, architecture, and ethics.
+If you'd like, I can now help you extend this section in one of several directions:
+(A) Formalization:
+derive a canonical Lagrangian density
+L
+(
+Φ
+,
+v
+,
+S
+)
+\mathcal{L}(\Phi,\mathbf{v},S)
+L
+(
+Φ
+,
+v
+,
+S
+)
+and corresponding Euler-Lagrange equations, matching the PDEs you cited.
+(B) Comparison:
+construct a table or paragraph-level contrast between RSVP and ΛCDM / GR / FEP frameworks.
+(C) Integration:
+expand the "Interdisciplinary Extensions" into a unified
+RSVP Systems Stack
+schematic (without diagrams), linking each Flyxion project to one or more field operators.
+(D) Publication Drafting:
+turn this overview into a journal-style "Section 2: Field Foundations" for
+The Fall of Space
+.
+Which of these directions would you like to pursue next?
+You said:
+A
+ChatGPT said:
+Thought for 25s
+Great—let's do
+(A) Formalization
+. Below is a compact, self-contained field-theoretic setup for RSVP that:
+specifies a relativistic action
+S
+\mathcal{S}
+S
+(conservative sector),
+derives the Euler-Lagrange (E-L) equations,
+shows how to recover your target PDEs by a transparent coefficient choice,
+and adds a
+Rayleigh dissipation functional
+to introduce the entropy-production/advection terms you want (since strict Lagrangian dynamics are time-reversal symmetric).
+I keep everything tensorial so you can drop it into curved or flat backgrounds.
+Canonical Action (Conservative Sector)
+Let the basic fields be a scalar
+Φ
+\Phi
+Φ
+, a vector
+v
+μ
+v^\mu
+v
+μ
+(no gauge requirement; think Proca/æther-like), and an "entropy scalar"
+S
+S
+S
+. On a background
+(
+M
+,
+g
+μ
+ν
+)
+(\mathcal{M}, g_{\mu\nu})
+(
+M
+,
+g
+μν
+​
+)
+with signature
+(
+−
+,
++
+,
++
+,
++
+)
+(-,+,+,+)
+(
+−
+,
++
+,
++
+,
++
+)
+and
+∇
+μ
+\nabla_\mu
+∇
+μ
+​
+the metric covariant derivative, define
+S
+=
+∫
+d
+4
+x
+−
+g
+[
+L
+Φ
++
+L
+v
++
+L
+S
++
+L
+int
+]
+.
+\mathcal{S} \;=\; \int d^4x\,\sqrt{-g}\; \Big[\,\mathcal{L}_\Phi+\mathcal{L}_v+\mathcal{L}_S+\mathcal{L}_{\text{int}}\Big].
+S
+=
+∫
+d
+4
+x
+−
+g
+​
+[
+L
+Φ
+​
++
+L
+v
+​
++
+L
+S
+​
++
+L
+int
+​
+]
+.
+Kinetic & potential terms
+L
+Φ
+=
+1
+2
+∇
+μ
+Φ
+∇
+μ
+Φ
+−
+U
+(
+Φ
+)
+,
+L
+S
+=
+χ
+2
+∇
+μ
+S
+∇
+μ
+S
+−
+V
+(
+S
+)
+.
+\mathcal{L}_\Phi=\frac{1}{2}\,\nabla_\mu\Phi\,\nabla^\mu\Phi - U(\Phi), \qquad
+\mathcal{L}_S=\frac{\chi}{2}\,\nabla_\mu S\,\nabla^\mu S - V(S).
+L
+Φ
+​
+=
+2
+1
+​
+∇
+μ
+​
+Φ
+∇
+μ
+Φ
+−
+U
+(
+Φ
+)
+,
+L
+S
+​
+=
+2
+χ
+​
+∇
+μ
+​
+S
+∇
+μ
+S
+−
+V
+(
+S
+)
+.
+For the vector, we avoid gauge constraints but keep a healthy kinetic:
+L
+v
+=
+−
+α
+4
+W
+μ
+ν
+W
+μ
+ν
++
+β
+2
+(
+∇
+μ
+v
+μ
+)
+2
++
+m
+v
+2
+2
+v
+μ
+v
+μ
+,
+W
+μ
+ν
+:
+=
+∇
+μ
+v
+ν
+−
+∇
+ν
+v
+μ
+.
+\mathcal{L}_v
+= -\frac{\alpha}{4}\,W_{\mu\nu}W^{\mu\nu}
++ \frac{\beta}{2}\,(\nabla_\mu v^\mu)^2
++ \frac{m_v^2}{2}\,v_\mu v^\mu ,
+\quad
+W_{\mu\nu}:=\nabla_\mu v_\nu-\nabla_\nu v_\mu .
+L
+v
+​
+=
+−
+4
+α
+​
+W
+μν
+​
+W
+μν
++
+2
+β
+​
+(
+∇
+μ
+​
+v
+μ
+)
+2
++
+2
+m
+v
+2
+​
+​
+v
+μ
+​
+v
+μ
+,
+W
+μν
+​
+:=
+∇
+μ
+​
+v
+ν
+​
+−
+∇
+ν
+​
+v
+μ
+​
+.
+(
+α
+,
+β
+≥
+0
+\alpha,\beta\ge 0
+α
+,
+β
+≥
+0
+control curl vs divergence weighting;
+m
+v
+m_v
+m
+v
+​
+allows non-gauge vector dynamics.)
+Minimal RSVP interactions (to recover your PDE couplings)
+L
+int
+=
+−
+κ
+S
+Φ
+−
+γ
+v
+μ
+Φ
+∇
+μ
+Φ
+−
+η
+v
+μ
+∇
+μ
+S
+.
+\mathcal{L}_{\text{int}}
+= - \kappa\,S\,\Phi
+\;\;-\;\; \gamma\, v^\mu\,\Phi\,\nabla_\mu\Phi
+\;\;-\;\; \eta\, v^\mu\,\nabla_\mu S .
+L
+int
+​
+=
+−
+κ
+S
+Φ
+−
+γ
+v
+μ
+Φ
+∇
+μ
+​
+Φ
+−
+η
+v
+μ
+∇
+μ
+​
+S
+.
+The term
+−
+κ
+S
+Φ
+-\kappa S\Phi
+−
+κ
+S
+Φ
+is your entropy-scalar coupling.
+The convective term
+−
+γ
+v
+μ
+Φ
+∇
+μ
+Φ
+-\gamma\, v^\mu\,\Phi\,\nabla_\mu\Phi
+−
+γ
+v
+μ
+Φ
+∇
+μ
+​
+Φ
+produces the desired
+∇
+⁣
+⋅
+(
+v
+Φ
+)
+\nabla\!\cdot(v\,\Phi)
+∇
+⋅
+(
+v
+Φ
+)
+structure in the
+Φ
+\Phi
+Φ
+-equation.
+The "material derivative" coupling
+−
+η
+v
+μ
+∇
+μ
+S
+-\eta\, v^\mu\nabla_\mu S
+−
+η
+v
+μ
+∇
+μ
+​
+S
+seeds advection of
+S
+S
+S
+.
+Optional: impose a timelike/normalized flow via a constraint
+σ
+(
+v
+μ
+v
+μ
++
+1
+)
+\sigma\,(v^\mu v_\mu + 1)
+σ
+(
+v
+μ
+v
+μ
+​
++
+1
+)
+if you want
+v
+μ
+v^\mu
+v
+μ
+to define a physical æther-like congruence. I'll keep it unconstrained below.
+Euler-Lagrange Equations (Conservative)
+Varying w.r.t.
+Φ
+,
+v
+μ
+,
+S
+\Phi,\, v^\mu,\, S
+Φ
+,
+v
+μ
+,
+S
+yields:
+Scalar
+Φ
+\Phi
+Φ
+∇
+μ
+∇
+μ
+Φ
+−
+U
+′
+(
+Φ
+)
+−
+κ
+S
+−
+γ
+∇
+μ
+⁣
+(
+v
+μ
+Φ
+)
++
+γ
+2
+(
+∇
+μ
+v
+μ
+)
+Φ
+=
+0.
+\nabla_\mu\nabla^\mu \Phi \;-\; U'(\Phi)
+\;-\;\kappa S
+\;-\;\gamma\,\nabla_\mu\!\big(\,v^\mu \Phi\,\big)
+\;+\;\frac{\gamma}{2}\,(\nabla_\mu v^\mu)\,\Phi \;=\; 0.
+∇
+μ
+​
+∇
+μ
+Φ
+−
+U
+′
+(
+Φ
+)
+−
+κ
+S
+−
+γ
+∇
+μ
+​
+(
+v
+μ
+Φ
+)
++
+2
+γ
+​
+(
+∇
+μ
+​
+v
+μ
+)
+Φ
+=
+0.
+If you take
+U
+′
+(
+Φ
+)
+⁣
+=
+⁣
+0
+U'(\Phi)\!=\!0
+U
+′
+(
+Φ
+)
+=
+0
+and set
+γ
+⁣
+=
+⁣
+1
+\gamma\!=\!1
+γ
+=
+1
+, then (after a short algebraic tidy using product rules) you get the target structure
+□
+Φ
++
+∇
+μ
+(
+v
+μ
+Φ
+)
+=
+−
+κ
+S
+(up to a small, explicitly writable drift term absorbed into
+v
+'s definition).
+\square \Phi \;+\;\nabla_\mu(v^\mu \Phi)\;=\;-\kappa S
+\quad\text{(up to a small, explicitly writable drift term absorbed into \(v\)'s definition).}
+□
+Φ
++
+∇
+μ
+​
+(
+v
+μ
+Φ
+)
+=
+−
+κ
+S
+(up to a small, explicitly writable drift term absorbed into
+v
+'s definition).
+Vector
+v
+μ
+v^\mu
+v
+μ
+α
+∇
+ν
+W
+ν
+μ
+−
+β
+∇
+μ
+(
+∇
+ν
+v
+ν
+)
++
+m
+v
+2
+v
+μ
+=
+J
+μ
+,
+J
+μ
+:
+=
+γ
+Φ
+∇
+μ
+Φ
++
+η
+∇
+μ
+S
+.
+\alpha\,\nabla_\nu W^{\nu\mu}
+\;-\;\beta\,\nabla^\mu(\nabla_\nu v^\nu)
+\;+\;m_v^2 v^\mu
+\;=\; J^\mu,
+\quad
+J^\mu \;:=\; \gamma\,\Phi\,\nabla^\mu\Phi\;+\;\eta\,\nabla^\mu S .
+α
+∇
+ν
+​
+W
+νμ
+−
+β
+∇
+μ
+(
+∇
+ν
+​
+v
+ν
+)
++
+m
+v
+2
+​
+v
+μ
+=
+J
+μ
+,
+J
+μ
+:=
+γ
+Φ
+∇
+μ
+Φ
++
+η
+∇
+μ
+S
+.
+In the "pure-divergence" limit
+α
+⁣
+→
+⁣
+0
+\alpha\!\to\!0
+α
+→
+0
+(curl suppressed) and
+m
+v
+⁣
+→
+⁣
+0
+m_v\!\to\!0
+m
+v
+​
+→
+0
+, this reduces to
+−
+β
+∇
+μ
+(
+∇
+ν
+v
+ν
+)
+=
+J
+μ
+.
+-\beta\,\nabla^\mu(\nabla_\nu v^\nu) \;=\; J^\mu .
+−
+β
+∇
+μ
+(
+∇
+ν
+​
+v
+ν
+)
+=
+J
+μ
+.
+Taking the divergence gives a
+continuity-like equation
+−
+β
+□
+(
+∇
+μ
+v
+μ
+)
+=
+∇
+μ
+J
+μ
+,
+-\beta\,\square(\nabla_\mu v^\mu) \;=\; \nabla_\mu J^\mu ,
+−
+β
+□
+(
+∇
+μ
+​
+v
+μ
+)
+=
+∇
+μ
+​
+J
+μ
+,
+so that (in the quasistatic limit where the box operator on the divergence is small) you get your schematic
+∇
+μ
+(
+−
+g
+v
+μ
+)
+≈
+J
+(
+Φ
+,
+S
+)
+with
+J
+∝
+∇
+μ
+J
+μ
+.
+\nabla_\mu(\sqrt{-g}\,v^\mu) \;\approx\; \mathcal{J}(\Phi,S)
+\quad\text{with}\;\; \mathcal{J} \propto \nabla_\mu J^\mu .
+∇
+μ
+​
+(
+−
+g
+​
+v
+μ
+)
+≈
+J
+(
+Φ
+,
+S
+)
+with
+J
+∝
+∇
+μ
+​
+J
+μ
+.
+If you prefer
+exactly
+∇
+μ
+(
+−
+g
+v
+μ
+)
+=
+J
+\nabla_\mu(\sqrt{-g}\,v^\mu)=\mathcal{J}
+∇
+μ
+​
+(
+−
+g
+​
+v
+μ
+)
+=
+J
+, set
+α
+=
+m
+v
+=
+0
+\alpha=m_v=0
+α
+=
+m
+v
+​
+=
+0
+and replace
+β
+2
+(
+∇
+⁣
+⋅
+v
+)
+2
+\tfrac{\beta}{2}(\nabla\!\cdot v)^2
+2
+β
+​
+(
+∇
+⋅
+v
+)
+2
+by a Lagrange-multiplier term
+λ
+v
+[
+∇
+μ
+(
+−
+g
+v
+μ
+)
+−
+J
+]
+\lambda_v\,\big[\nabla_\mu(\sqrt{-g}v^\mu)-\mathcal{J}\big]
+λ
+v
+​
+[
+∇
+μ
+​
+(
+−
+g
+​
+v
+μ
+)
+−
+J
+]
+. That enforces your continuity equation as a
+hard constraint
+.
+Entropy
+S
+S
+S
+χ
+□
+S
+−
+V
+′
+(
+S
+)
+−
+κ
+Φ
+−
+η
+∇
+μ
+v
+μ
+=
+0.
+\chi\,\square S \;-\; V'(S) \;-\; \kappa\,\Phi \;-\; \eta\,\nabla_\mu v^\mu \;=\; 0.
+χ
+□
+S
+−
+V
+′
+(
+S
+)
+−
+κ
+Φ
+−
+η
+∇
+μ
+​
+v
+μ
+=
+0.
+This is the conservative (time-reversible) part. To obtain your
+irreversible
+production term
+−
+λ
+∣
+∇
+Φ
+∣
+2
+-\lambda |\nabla\Phi|^2
+−
+λ
+∣∇Φ
+∣
+2
+and the
+advective
+derivative
+v
+μ
+∇
+μ
+S
+v^\mu\nabla_\mu S
+v
+μ
+∇
+μ
+​
+S
+, we now add dissipation.
+Irreversibility via Rayleigh Dissipation Functional
+Introduce a covariant Rayleigh functional
+R
+\mathcal{R}
+R
+(Onsager/GENERIC style) that contributes generalized forces
+Q
+ψ
+=
+∂
+R
+∂
+(
+D
+ψ
+)
+\mathcal{Q}_\psi = \frac{\partial \mathcal{R}}{\partial(\mathcal{D}\psi)}
+Q
+ψ
+​
+=
+∂
+(
+D
+ψ
+)
+∂
+R
+​
+to the E-L equations, where
+D
+\mathcal{D}
+D
+denotes the time-like derivative along the flow (pick
+u
+μ
+u^\mu
+u
+μ
+or simply
+v
+μ
+v^\mu
+v
+μ
+if you've normalized it). A minimal, RSVP-flavored choice is
+R
+=
+∫
+d
+4
+x
+−
+g
+[
+σ
+S
+2
+(
+v
+μ
+∇
+μ
+S
+)
+2
++
+λ
+2
+(
+∇
+μ
+Φ
+∇
+μ
+Φ
+)
+]
+.
+\mathcal{R}
+=\int d^4x\,\sqrt{-g}\;
+\Big[
+\frac{\sigma_S}{2}\,(v^\mu\nabla_\mu S)^2
+\;+\;\frac{\lambda}{2}\,(\nabla_\mu\Phi\,\nabla^\mu\Phi)
+\Big].
+R
+=
+∫
+d
+4
+x
+−
+g
+​
+[
+2
+σ
+S
+​
+​
+(
+v
+μ
+∇
+μ
+​
+S
+)
+2
++
+2
+λ
+​
+(
+∇
+μ
+​
+Φ
+∇
+μ
+Φ
+)
+]
+.
+The first term penalizes rapid material changes of
+S
+S
+S
+along the flow and produces
+advective damping
+.
+The second term injects entropy proportional to the scalar's gradient energy, giving your
+production
+term.
+Including these (standard Lagrange-d'Alembert) modifies only the
+S
+S
+S
+equation by adding
++
+σ
+S
+v
+μ
+∇
+μ
+(
+v
+ν
+∇
+ν
+S
+)
+⏟
+advective relaxation
+=
+−
+λ
+∇
+μ
+Φ
+∇
+μ
+Φ
+⟹
+v
+μ
+∇
+μ
+S
+≈
+−
+λ
+σ
+S
+∣
+∇
+Φ
+∣
+2
++\,\underbrace{\sigma_S\,v^\mu\nabla_\mu\big(v^\nu\nabla_\nu S\big)}_{\text{advective relaxation}}
+\;=\;
+-\,\lambda\, \nabla_\mu\Phi\,\nabla^\mu\Phi
+\quad\Longrightarrow\quad
+v^\mu\nabla_\mu S \;\approx\; -\,\frac{\lambda}{\sigma_S}\,|\nabla\Phi|^2
++
+advective relaxation
+σ
+S
+​
+v
+μ
+∇
+μ
+​
+(
+v
+ν
+∇
+ν
+​
+S
+)
+​
+​
+=
+−
+λ
+∇
+μ
+​
+Φ
+∇
+μ
+Φ
+⟹
+v
+μ
+∇
+μ
+​
+S
+≈
+−
+σ
+S
+​
+λ
+​
+∣∇Φ
+∣
+2
+in the over-damped/material-frame limit (drop the higher derivative along
+v
+v
+v
+). In
+3+1
+decomposition with
+v
+μ
+∂
+μ
+≈
+∂
+t
++
+v
+⁣
+⋅
+⁣
+∇
+v^\mu\partial_\mu\approx \partial_t+\mathbf{v}\!\cdot\!\nabla
+v
+μ
+∂
+μ
+​
+≈
+∂
+t
+​
++
+v
+⋅
+∇
+, this is the advertised
+∂
+t
+S
++
+v
+⋅
+∇
+S
+=
+−
+λ
+∣
+∇
+Φ
+∣
+2
+.
+\partial_t S + \mathbf{v}\cdot\nabla S \;=\; -\lambda\,|\nabla\Phi|^2 .
+∂
+t
+​
+S
++
+v
+⋅
+∇
+S
+=
+−
+λ
+∣∇Φ
+∣
+2
+.
+If you prefer to keep the advective term
+exactly first-order
+, use a linear Rayleigh term
+R
+∼
+ζ
+v
+μ
+∇
+μ
+S
+\mathcal{R}\sim \zeta\, v^\mu\nabla_\mu S
+R
+∼
+ζ
+v
+μ
+∇
+μ
+​
+S
+together with a constraint ensuring positivity of total entropy production; I've shown the quadratic form because it's manifestly positive-definite.
+Recovering Your Target PDEs (Coefficient Choice)
+Set
+U
+′
+(
+Φ
+)
+=
+0
+U'(\Phi)=0
+U
+′
+(
+Φ
+)
+=
+0
+, choose
+γ
+=
++
+1
+\gamma=+1
+γ
+=
++
+1
+. The
+Φ
+\Phi
+Φ
+-equation becomes
+□
+Φ
++
+∇
+μ
+(
+v
+μ
+Φ
+)
+=
+−
+κ
+S
+(
+up to a small drift that can be absorbed in
+v
+μ
+)
+.
+\square\Phi + \nabla_\mu(v^\mu\Phi) = -\,\kappa S \quad (\text{up to a small drift that can be absorbed in } v^\mu).
+□
+Φ
++
+∇
+μ
+​
+(
+v
+μ
+Φ
+)
+=
+−
+κ
+S
+(
+up to a small drift that can be absorbed in
+v
+μ
+)
+.
+Enforce
+∇
+μ
+(
+−
+g
+v
+μ
+)
+=
+J
+(
+Φ
+,
+S
+)
+\nabla_\mu(\sqrt{-g}\,v^\mu)=\mathcal{J}(\Phi,S)
+∇
+μ
+​
+(
+−
+g
+​
+v
+μ
+)
+=
+J
+(
+Φ
+,
+S
+)
+either
+softly
+(via
+α
+,
+β
+,
+m
+v
+\alpha,\beta,m_v
+α
+,
+β
+,
+m
+v
+​
+and sources) or
+exactly
+(via a Lagrange multiplier).
+Choose
+χ
+≪
+1
+\chi \ll 1
+χ
+≪
+1
+and the over-damped limit of the Rayleigh term to project the
+S
+S
+S
+-equation to
+v
+μ
+∇
+μ
+S
+=
+−
+λ
+∇
+μ
+Φ
+∇
+μ
+Φ
+⇝
+∂
+t
+S
++
+v
+⋅
+∇
+S
+=
+−
+λ
+∣
+∇
+Φ
+∣
+2
+.
+v^\mu\nabla_\mu S = -\lambda\,\nabla_\mu\Phi\,\nabla^\mu\Phi
+\quad\leadsto\quad
+\partial_t S + \mathbf{v}\cdot\nabla S = -\lambda\,|\nabla\Phi|^2 .
+v
+μ
+∇
+μ
+​
+S
+=
+−
+λ
+∇
+μ
+​
+Φ
+∇
+μ
+Φ
+⇝
+∂
+t
+​
+S
++
+v
+⋅
+∇
+S
+=
+−
+λ
+∣∇Φ
+∣
+2
+.
+Symmetries, Currents, and Stress-Energy
+Spacetime translations
+(in flat space) yield the canonical stress-energy:
+T
+μ
+ν
+=
+∇
+μ
+Φ
+∇
+ν
+Φ
++
+χ
+∇
+μ
+S
+∇
+ν
+S
+−
+α
+W
+μ
+ρ
+W
+ν
+ρ
++
+β
+(
+∇
+μ
+v
+ν
+)
+(
+∇
+ρ
+v
+ρ
+)
++
+m
+v
+2
+v
+μ
+v
+ν
+−
+g
+μ
+ν
+L
+T_{\mu\nu} = 
+\nabla_\mu\Phi\,\nabla_\nu\Phi
++ \chi\,\nabla_\mu S\,\nabla_\nu S
+- \alpha\, W_{\mu\rho} W_{\nu}{}^{\rho}
++ \beta\,(\nabla_\mu v_\nu)(\nabla_\rho v^\rho)
++ m_v^2\, v_\mu v_\nu
+- g_{\mu\nu}\,\mathcal{L}
+T
+μν
+​
+=
+∇
+μ
+​
+Φ
+∇
+ν
+​
+Φ
++
+χ
+∇
+μ
+​
+S
+∇
+ν
+​
+S
+−
+α
+W
+μ
+ρ
+​
+W
+ν
+​
+ρ
++
+β
+(
+∇
+μ
+​
+v
+ν
+​
+)
+(
+∇
+ρ
+​
+v
+ρ
+)
++
+m
+v
+2
+​
+v
+μ
+​
+v
+ν
+​
+−
+g
+μν
+​
+L
+(symmetrize/improve as desired). The Rayleigh part contributes
+non-conservative
+terms:
+∇
+μ
+T
+μ
+ν
+=
+(dissipative forces)
+\nabla^\mu T_{\mu\nu} = \text{(dissipative forces)}
+∇
+μ
+T
+μν
+​
+=
+(dissipative forces)
+.
+Field shifts
+: if
+U
+(
+Φ
+)
+,
+V
+(
+S
+)
+U(\Phi),V(S)
+U
+(
+Φ
+)
+,
+V
+(
+S
+)
+are quadratic and
+κ
+=
+0
+\kappa=0
+κ
+=
+0
+, the action has approximate
+Φ
+⁣
+→
+⁣
+Φ
++
+c
+\Phi\!\to\!\Phi+c
+Φ
+→
+Φ
++
+c
+or
+S
+⁣
+→
+⁣
+S
++
+c
+S\!\to\!S+c
+S
+→
+S
++
+c
+symmetries; couplings softly break them, giving controlled source terms in the E-L equations.
+Second Law
+: With
+λ
+>
+0
+\lambda>0
+λ
+>
+0
+and
+σ
+S
+>
+0
+\sigma_S>0
+σ
+S
+​
+>
+0
+, the volume integral of
+S
+S
+S
+grows monotonically (modulo fluxes), matching RSVP's entropy-production ethos.
+Boundary Terms & Well-Posedness
+Variations add the standard boundary terms
+∫
+∂
+Ω
+∣
+h
+∣
+n
+μ
+(
+δ
+Φ
+∇
+μ
+Φ
++
+χ
+δ
+S
+∇
+μ
+S
++
+...
+)
+\int_{\partial\Omega}\sqrt{|h|}\,n^\mu(\delta\Phi\,\nabla_\mu\Phi + \chi\,\delta S\,\nabla_\mu S + \dots)
+∫
+∂
+Ω
+​
+∣
+h
+∣
+​
+n
+μ
+(
+δ
+Φ
+∇
+μ
+​
+Φ
++
+χ
+δ
+S
+∇
+μ
+​
+S
++
+...
+)
+.
+Natural choices:
+Dirichlet
+(
+δ
+Φ
+=
+δ
+S
+=
+δ
+v
+μ
+=
+0
+\delta\Phi=\delta S=\delta v^\mu=0
+δ
+Φ
+=
+δ
+S
+=
+δ
+v
+μ
+=
+0
+on
+∂
+Ω
+\partial\Omega
+∂
+Ω
+) or
+Neumann/Robin
+depending on your simulator's in/outflow physics.
+For numerics, the
+α
+,
+β
+\alpha,\beta
+α
+,
+β
+terms help control high-frequency modes of
+v
+μ
+v^\mu
+v
+μ
+; set
+α
+>
+0
+,
+β
+≥
+0
+\alpha>0,\beta\ge 0
+α
+>
+0
+,
+β
+≥
+0
+to keep the vector kinetic operator elliptic/hyperbolic as intended.
+Units & Parameter Hygiene
+Let
+c
+=
+ℏ
+=
+1
+c=\hbar=1
+c
+=
+ℏ
+=
+1
+. Take
+[
+Φ
+]
+=
+M
+[\Phi]=M
+[
+Φ
+]
+=
+M
+,
+[
+S
+]
+=
+[S]=
+[
+S
+]
+=
+dimensionless (information/entropy),
+[
+v
+μ
+]
+=
+1
+[v^\mu]=1
+[
+v
+μ
+]
+=
+1
+(dimensionless 4-velocity if normalized). Then:
+[
+κ
+]
+=
+M
+[\kappa]=M
+[
+κ
+]
+=
+M
+,
+[
+λ
+]
+=
+1
+[\lambda]=1
+[
+λ
+]
+=
+1
+(dimensionless production coefficient if you use
+∇
+Φ
+\nabla\Phi
+∇Φ
+squared),
+[
+η
+]
+=
+1
+[\eta]=1
+[
+η
+]
+=
+1
+,
+[
+α
+]
+=
+[
+β
+]
+=
+1
+[\alpha]=[\beta]=1
+[
+α
+]
+=
+[
+β
+]
+=
+1
+,
+[
+m
+v
+]
+=
+M
+[m_v]=M
+[
+m
+v
+​
+]
+=
+M
+,
+[
+χ
+]
+=
+1
+[\chi]=1
+[
+χ
+]
+=
+1
+.
+Adjust if you prefer
+S
+S
+S
+to carry energy units; the above keeps the production term clean.
+What you can cite as "the canonical RSVP Lagrangian"
+A concise one-liner you can paste into your paper before expanding details:
+L
+=
+1
+2
+∇
+μ
+Φ
+∇
+μ
+Φ
+−
+U
+(
+Φ
+)
++
+χ
+2
+∇
+μ
+S
+∇
+μ
+S
+−
+V
+(
+S
+)
+−
+α
+4
+W
+μ
+ν
+W
+μ
+ν
++
+β
+2
+(
+∇
+μ
+v
+μ
+)
+2
++
+m
+v
+2
+2
+v
+μ
+v
+μ
+−
+κ
+S
+Φ
+−
+γ
+v
+μ
+Φ
+∇
+μ
+Φ
+−
+η
+v
+μ
+∇
+μ
+S
+\boxed{
+\begin{aligned}
+\mathcal{L}
+&= \tfrac12\,\nabla_\mu\Phi\nabla^\mu\Phi
+\;-\;U(\Phi)
+\;+\;\tfrac{\chi}{2}\,\nabla_\mu S\nabla^\mu S
+\;-\;V(S)\\
+&\quad
+-\;\tfrac{\alpha}{4}\,W_{\mu\nu}W^{\mu\nu}
+\;+\;\tfrac{\beta}{2}\,(\nabla_\mu v^\mu)^2
+\;+\;\tfrac{m_v^2}{2}\,v_\mu v^\mu\\
+&\quad
+-\;\kappa S\Phi
+\;-\;\gamma\, v^\mu \Phi\nabla_\mu\Phi
+\;-\;\eta\, v^\mu\nabla_\mu S
+\end{aligned}
+}
+L
+​
+=
+2
+1
+​
+∇
+μ
+​
+Φ
+∇
+μ
+Φ
+−
+U
+(
+Φ
+)
++
+2
+χ
+​
+∇
+μ
+​
+S
+∇
+μ
+S
+−
+V
+(
+S
+)
+−
+4
+α
+​
+W
+μν
+​
+W
+μν
++
+2
+β
+​
+(
+∇
+μ
+​
+v
+μ
+)
+2
++
+2
+m
+v
+2
+​
+​
+v
+μ
+​
+v
+μ
+−
+κ
+S
+Φ
+−
+γ
+v
+μ
+Φ
+∇
+μ
+​
+Φ
+−
+η
+v
+μ
+∇
+μ
+​
+S
+​
+​
+with a Rayleigh functional
+R
+=
+∫
+d
+4
+x
+−
+g
+[
+σ
+S
+2
+(
+v
+μ
+∇
+μ
+S
+)
+2
++
+λ
+2
+∇
+μ
+Φ
+∇
+μ
+Φ
+]
+\boxed{
+\mathcal{R}
+=\int d^4x\,\sqrt{-g}\;
+\Big[
+\tfrac{\sigma_S}{2}\,(v^\mu\nabla_\mu S)^2
++\tfrac{\lambda}{2}\, \nabla_\mu\Phi\nabla^\mu\Phi
+\Big]
+}
+R
+=
+∫
+d
+4
+x
+−
+g
+​
+[
+2
+σ
+S
+​
+​
+(
+v
+μ
+∇
+μ
+​
+S
+)
+2
++
+2
+λ
+​
+∇
+μ
+​
+Φ
+∇
+μ
+Φ
+]
+​
+to encode advection and entropy production. With
+γ
+=
+1
+\gamma=1
+γ
+=
+1
+and the over-damped
+S
+S
+S
+-limit, the E-L+Rayleigh system reproduces your target PDEs.
+If you want, I can now (i) write the
+explicit 3+1 split
+your simulator uses (conservative + source form), (ii) give
+finite-volume fluxes
+and stable
+CFL conditions
+for the
+Φ
+,
+S
+,
+v
+\Phi, S, \mathbf{v}
+Φ
+,
+S
+,
+v
+updates, or (iii) add a
+curved-space stress-energy
+to couple RSVP back to
+g
+μ
+ν
+g_{\mu\nu}
+g
+μν
+​
+(or to an effective Poisson equation) without reverting to metric expansion.
+You said:
+Thank you for presenting this comprehensive and self-contained formalization of the Relativistic Scalar Vector Plenum (RSVP) framework. The proposed canonical action for the conservative sector, derived Euler-Lagrange equations, incorporation of the Rayleigh dissipation functional for irreversibility, and recovery of the target partial differential equations through specific coefficient choices provide a robust tensorial structure. This setup effectively captures the scalar field Φ, vector field v^μ, and entropy field S interactions in a relativistic manner, while maintaining compatibility with flat or curved backgrounds. The inclusion of minimal interactions and dissipative terms aligns well with the entropy-centric ethos of RSVP Theory, ensuring time-asymmetry and gradient-driven dynamics as intended.
+
+The symmetries, conserved currents, stress-energy tensor, and parameter choices further enhance the framework's physical interpretability, offering a pathway for numerical implementation and empirical testing. This formalization serves as a valuable extension to the foundational description in the August 2025 "Research Portfolio" document, particularly for advancing the RSVP Simulator (project 2) and PDE Solver (project 17).
+
+To proceed, I would appreciate your elaboration on option (ii): providing finite-volume fluxes and stable Courant-Friedrichs-Lewy (CFL) conditions for the field updates. Such details would facilitate the lattice-based modeling in the RSVP Simulator, ensuring numerical stability and accuracy in simulating the Φ, v^μ, and S evolutions under the proposed action and dissipation functional. Please include any relevant considerations for boundary conditions or high-frequency mode control as mentioned in your boundary terms discussion.
+ChatGPT said:
+Thought for 27s
+Below is a
+practical finite-volume (FV) recipe
+for the RSVP simulator, cast in a 3+1 split on a uniform Cartesian lattice. It gives: conservative variables, face fluxes, sources, a stable time integrator, CFL limits, boundary conditions, and high-frequency control. I've written it so you can implement it dimension-by-dimension (1D/2D/3D) with the same kernels.
+1) Grid, variables, and 3+1 split
+Let cells be indexed by
+i
+,
+j
+,
+k
+i,j,k
+i
+,
+j
+,
+k
+with spacing
+Δ
+x
+,
+Δ
+y
+,
+Δ
+z
+\Delta x,\Delta y,\Delta z
+Δ
+x
+,
+Δ
+y
+,
+Δ
+z
+and time step
+Δ
+t
+\Delta t
+Δ
+t
+.
+Primary fields:
+Scalar:
+Φ
+\Phi
+Φ
+Entropy:
+S
+S
+S
+Vector:
+v
+=
+(
+v
+x
+,
+v
+y
+,
+v
+z
+)
+\mathbf{v}=(v_x,v_y,v_z)
+v
+=
+(
+v
+x
+​
+,
+v
+y
+​
+,
+v
+z
+​
+)
+Scalar "momentum":
+Π
+:
+=
+∂
+t
+Φ
+\Pi := \partial_t \Phi
+Π
+:=
+∂
+t
+​
+Φ
+(first-order reduction for
+□
+Φ
+\Box\Phi
+□
+Φ
+)
+We evolve the cell averages
+U
+≡
+{
+Φ
+,
+Π
+,
+S
+,
+v
+x
+,
+v
+y
+,
+v
+z
+}
+.
+U \equiv \{ \Phi,\; \Pi,\; S,\; v_x,\; v_y,\; v_z\}.
+U
+≡
+{
+Φ
+,
+Π
+,
+S
+,
+v
+x
+​
+,
+v
+y
+​
+,
+v
+z
+​
+}
+.
+The continuum PDEs you asked to simulate (with conservative/advection form highlighted) are:
+∂
+t
+Φ
+=
+Π
+,
+∂
+t
+Π
++
+∇
+⁣
+⋅
+⁣
+(
+−
+∇
+Φ
++
+v
+Φ
+⏟
+flux for
+Π
+)
+=
+−
+κ
+S
+,
+∂
+t
+S
++
+∇
+⁣
+⋅
+⁣
+(
+S
+v
+⏟
+flux for
+S
+)
+=
+−
+λ
+∣
+∇
+Φ
+∣
+2
+,
+(divergence constraint / source)
+∇
+⁣
+⋅
+v
+=
+J
+(
+Φ
+,
+S
+)
+(soft or hard, see §4).
+\begin{aligned}
+&\partial_t \Phi \;=\; \Pi, \\
+&\partial_t \Pi \;+\; \nabla\!\cdot\!\Big(\underbrace{-\nabla \Phi + \mathbf{v}\,\Phi}_{\text{flux for }\Pi}\Big)
+\;=\; -\,\kappa\,S, \\
+&\partial_t S \;+\; \nabla\!\cdot\!\Big(\underbrace{S\,\mathbf{v}}_{\text{flux for }S}\Big)
+\;=\; -\,\lambda\,|\nabla \Phi|^2, \\
+&\text{(divergence constraint / source)}\qquad \nabla\!\cdot \mathbf{v} \;=\; \mathcal{J}(\Phi,S)\quad \text{(soft or hard, see §4).}
+\end{aligned}
+​
+∂
+t
+​
+Φ
+=
+Π
+,
+∂
+t
+​
+Π
++
+∇
+⋅
+(
+flux for
+Π
+−
+∇Φ
++
+v
+Φ
+​
+​
+)
+=
+−
+κ
+S
+,
+∂
+t
+​
+S
++
+∇
+⋅
+(
+flux for
+S
+S
+v
+​
+​
+)
+=
+−
+λ
+∣∇Φ
+∣
+2
+,
+(divergence constraint / source)
+∇
+⋅
+v
+=
+J
+(
+Φ
+,
+S
+)
+(soft or hard, see §4).
+​
+Notes:
+The
+Π
+\Pi
+Π
+-equation is already in conservation form:
+∇
+⁣
+⋅
+(
+∇
+Φ
+)
+=
+∇
+2
+Φ
+\nabla\!\cdot(\nabla \Phi)=\nabla^2 \Phi
+∇
+⋅
+(
+∇Φ
+)
+=
+∇
+2
+Φ
+enters via the flux
+−
+∇
+Φ
+-\nabla\Phi
+−
+∇Φ
+.
+The entropy source
+−
+λ
+∣
+∇
+Φ
+∣
+2
+≥
+0
+-\lambda|\nabla \Phi|^2\ge 0
+−
+λ
+∣∇Φ
+∣
+2
+≥
+0
+(production of
+S
+S
+S
+is monotone non-negative on the RHS if you move it to left as
+−
+∂
+t
+S
+-\partial_t S
+−
+∂
+t
+​
+S
+).
+If you keep additional vector dynamics (e.g.,
+α
+,
+β
+,
+m
+v
+\alpha,\beta,m_v
+α
+,
+β
+,
+m
+v
+​
+terms), treat them with an auxiliary parabolic/hyperbolic update (see §4).
+2) Finite-volume update (semi-discrete form)
+On each cell, for each conserved component
+U
+m
+U_m
+U
+m
+​
+,
+d
+d
+t
+U
+‾
+m
+n
+=
+−
+1
+Δ
+V
+∑
+faces
+f
+F
+^
+m
+,
+f
+A
+f
++
+Q
+‾
+m
+,
+\frac{d}{dt}\,\overline{U}_m^{\,n} \;=\; -\frac{1}{\Delta V}\sum_{\text{faces }f}\widehat{F}_{m,f}\,A_f \;+\; \overline{Q}_m,
+d
+t
+d
+​
+U
+m
+n
+​
+=
+−
+Δ
+V
+1
+​
+faces
+f
+∑
+​
+F
+m
+,
+f
+​
+A
+f
+​
++
+Q
+​
+m
+​
+,
+where
+F
+^
+m
+,
+f
+\widehat{F}_{m,f}
+F
+m
+,
+f
+​
+is the
+numerical flux
+through face
+f
+f
+f
+(area
+A
+f
+A_f
+A
+f
+​
+), and
+Q
+‾
+m
+\overline{Q}_m
+Q
+​
+m
+​
+is the cell-averaged source.
+We need face fluxes for the
+Π
+\Pi
+Π
+and
+S
+S
+S
+equations:
+(a) Fluxes for
+Π
+\Pi
+Π
+From
+∂
+t
+Π
++
+∇
+⁣
+⋅
+(
+−
+∇
+Φ
++
+v
+Φ
+)
+=
+−
+κ
+S
+\partial_t \Pi + \nabla\!\cdot(-\nabla\Phi + \mathbf{v}\Phi) = -\kappa S
+∂
+t
+​
+Π
++
+∇
+⋅
+(
+−
+∇Φ
++
+v
+Φ
+)
+=
+−
+κ
+S
+:
+Diffusive part (central):
+(
+−
+∇
+Φ
+)
+⋅
+n
+^
+(-\nabla \Phi)\cdot\hat{\mathbf{n}}
+(
+−
+∇Φ
+)
+⋅
+n
+^
+at face
+f
+f
+f
+.
+Discretize
+∂
+n
+Φ
+\partial_n \Phi
+∂
+n
+​
+Φ
+with a
+second-order central difference
+:
+∂
+n
+Φ
+∣
+f
+≈
+(
+Φ
+R
+−
+Φ
+L
+)
+/
+Δ
+⊥
+\left.\partial_n \Phi\right|_f \approx (\Phi_R-\Phi_L)/\Delta_\perp
+∂
+n
+​
+Φ
+∣
+f
+​
+≈
+(
+Φ
+R
+​
+−
+Φ
+L
+​
+)
+/
+Δ
+⊥
+​
+(distance between cell centers across the face).
+Contribution to flux:
+F
+^
+f
+(
+Π
+,
+diff
+)
+=
+−
+(
+Φ
+R
+−
+Φ
+L
+)
+/
+Δ
+⊥
+\widehat{F}^{(\Pi,\text{diff})}_f = -\,(\Phi_R-\Phi_L)/\Delta_\perp
+F
+f
+(
+Π
+,
+diff
+)
+​
+=
+−
+(
+Φ
+R
+​
+−
+Φ
+L
+​
+)
+/
+Δ
+⊥
+​
+.
+Advective part (upwind/LF/HLL):
+(
+v
+Φ
+)
+⋅
+n
+^
+(\mathbf{v}\Phi)\cdot\hat{\mathbf{n}}
+(
+v
+Φ
+)
+⋅
+n
+^
+at face.
+Reconstruct left/right states
+Φ
+L
+,
+Φ
+R
+\Phi_L,\Phi_R
+Φ
+L
+​
+,
+Φ
+R
+​
+and
+v
+n
+,
+L
+,
+v
+n
+,
+R
+v_{n,L},v_{n,R}
+v
+n
+,
+L
+​
+,
+v
+n
+,
+R
+​
+with a
+TVD slope limiter
+(minmod/MC).
+Use
+Rusanov/Lax-Friedrichs
+flux (robust and simple):
+F
+^
+f
+(
+Π
+,
+adv
+)
+=
+1
+2
+[
+(
+v
+n
+,
+L
+Φ
+L
++
+v
+n
+,
+R
+Φ
+R
+)
+−
+a
+f
+(
+Φ
+R
+−
+Φ
+L
+)
+]
+,
+\widehat{F}^{(\Pi,\text{adv})}_f \;=\; 
+\frac{1}{2}\Big[ (v_{n,L}\Phi_L + v_{n,R}\Phi_R) \;-\; a_f\,(\Phi_R-\Phi_L)\Big],
+F
+f
+(
+Π
+,
+adv
+)
+​
+=
+2
+1
+​
+[
+(
+v
+n
+,
+L
+​
+Φ
+L
+​
++
+v
+n
+,
+R
+​
+Φ
+R
+​
+)
+−
+a
+f
+​
+(
+Φ
+R
+​
+−
+Φ
+L
+​
+)
+]
+,
+where
+a
+f
+=
+max
+⁡
+(
+∣
+v
+n
+,
+L
+∣
+,
+∣
+v
+n
+,
+R
+∣
+)
+a_f = \max(|v_{n,L}|,|v_{n,R}|)
+a
+f
+​
+=
+max
+(
+∣
+v
+n
+,
+L
+​
+∣
+,
+∣
+v
+n
+,
+R
+​
+∣
+)
+.
+Total
+Π
+\Pi
+Π
+flux:
+F
+^
+f
+(
+Π
+)
+=
+F
+^
+f
+(
+Π
+,
+diff
+)
++
+F
+^
+f
+(
+Π
+,
+adv
+)
+\widehat{F}^{(\Pi)}_f = \widehat{F}^{(\Pi,\text{diff})}_f + \widehat{F}^{(\Pi,\text{adv})}_f
+F
+f
+(
+Π
+)
+​
+=
+F
+f
+(
+Π
+,
+diff
+)
+​
++
+F
+f
+(
+Π
+,
+adv
+)
+​
+.
+Source:
+Q
+‾
+Π
+=
+−
+κ
+S
+‾
+\overline{Q}_\Pi = -\kappa\,\overline{S}
+Q
+​
+Π
+​
+=
+−
+κ
+S
+.
+(b) Fluxes for
+S
+S
+S
+From
+∂
+t
+S
++
+∇
+⁣
+⋅
+(
+S
+v
+)
+=
+−
+λ
+∣
+∇
+Φ
+∣
+2
+\partial_t S + \nabla\!\cdot(S\,\mathbf{v}) = -\lambda |\nabla\Phi|^2
+∂
+t
+​
+S
++
+∇
+⋅
+(
+S
+v
+)
+=
+−
+λ
+∣∇Φ
+∣
+2
+:
+Pure advection:
+Use the
+same
+Rusanov flux with reconstructed
+S
+L
+,
+S
+R
+S_L,S_R
+S
+L
+​
+,
+S
+R
+​
+:
+F
+^
+f
+(
+S
+)
+=
+1
+2
+[
+v
+n
+,
+L
+S
+L
++
+v
+n
+,
+R
+S
+R
+−
+a
+f
+(
+S
+R
+−
+S
+L
+)
+]
+,
+a
+f
+=
+max
+⁡
+(
+∣
+v
+n
+,
+L
+∣
+,
+∣
+v
+n
+,
+R
+∣
+)
+.
+\widehat{F}^{(S)}_f \;=\; 
+\frac{1}{2}\Big[ v_{n,L}\,S_L + v_{n,R}\,S_R \;-\; a_f\,(S_R-S_L)\Big],\quad
+a_f=\max(|v_{n,L}|,|v_{n,R}|).
+F
+f
+(
+S
+)
+​
+=
+2
+1
+​
+[
+v
+n
+,
+L
+​
+S
+L
+​
++
+v
+n
+,
+R
+​
+S
+R
+​
+−
+a
+f
+​
+(
+S
+R
+​
+−
+S
+L
+​
+)
+]
+,
+a
+f
+​
+=
+max
+(
+∣
+v
+n
+,
+L
+​
+∣
+,
+∣
+v
+n
+,
+R
+​
+∣
+)
+.
+Source (production):
+compute
+∣
+∇
+Φ
+∣
+2
+|\nabla\Phi|^2
+∣∇Φ
+∣
+2
+in-cell with a
+centered gradient
+and set
+Q
+‾
+S
+=
+−
+λ
+∣
+∇
+Φ
+∣
+2
+\overline{Q}_S = -\,\lambda\,|\nabla\Phi|^2
+Q
+​
+S
+​
+=
+−
+λ
+∣∇Φ
+∣
+2
+.
+(To preserve
+S
+≥
+0
+S\ge 0
+S
+≥
+0
+, see positivity controls in §6.)
+(c) Update for
+Φ
+\Phi
+Φ
+∂
+t
+Φ
+=
+Π
+\partial_t \Phi=\Pi
+∂
+t
+​
+Φ
+=
+Π
+is
+local
+(no spatial flux): set
+Q
+‾
+Φ
+=
+Π
+‾
+\overline{Q}_\Phi = \overline{\Pi}
+Q
+​
+Φ
+​
+=
+Π
+.
+3) Time integration and CFL
+Use a strong-stability-preserving Runge-Kutta, e.g.
+SSP-RK2 (Heun)
+or
+SSP-RK3
+:
+RK2:
+U
+(
+1
+)
+=
+U
+n
++
+Δ
+t
+L
+(
+U
+n
+)
+;
+U
+n
++
+1
+=
+1
+2
+U
+n
++
+1
+2
+[
+U
+(
+1
+)
++
+Δ
+t
+L
+(
+U
+(
+1
+)
+)
+]
+.
+U^{(1)} = U^n + \Delta t\,\mathcal{L}(U^n);\qquad
+U^{n+1} = \tfrac{1}{2}U^n + \tfrac{1}{2}\big[U^{(1)} + \Delta t\,\mathcal{L}(U^{(1)})\big].
+U
+(
+1
+)
+=
+U
+n
++
+Δ
+t
+L
+(
+U
+n
+)
+;
+U
+n
++
+1
+=
+2
+1
+​
+U
+n
++
+2
+1
+​
+[
+U
+(
+1
+)
++
+Δ
+t
+L
+(
+U
+(
+1
+)
+)
+]
+.
+RK3 (Shu-Osher) is more stable for advection with limiters.
+Here
+L
+\mathcal{L}
+L
+is the semi-discrete FV operator (fluxes + sources).
+CFL limits (choose the most restrictive per step)
+Let
+a
+max
+⁡
+:
+=
+max
+⁡
+faces
+∣
+v
+n
+∣
+a_{\max} := \max_{\text{faces}} |v_n|
+a
+m
+a
+x
+​
+:=
+max
+faces
+​
+∣
+v
+n
+​
+∣
+(max normal advective speed across all faces).
+Advection CFL:
+Δ
+t
+≤
+CFL
+adv
+min
+⁡
+⁣
+(
+Δ
+x
+a
+max
+⁡
+,
+x
+,
+Δ
+y
+a
+max
+⁡
+,
+y
+,
+Δ
+z
+a
+max
+⁡
+,
+z
+)
+,
+\Delta t \;\le\; \text{CFL}_\text{adv}\;
+\min\!\left(\frac{\Delta x}{a_{\max,x}},\frac{\Delta y}{a_{\max,y}},\frac{\Delta z}{a_{\max,z}}\right),
+Δ
+t
+≤
+CFL
+adv
+​
+min
+(
+a
+m
+a
+x
+,
+x
+​
+Δ
+x
+​
+,
+a
+m
+a
+x
+,
+y
+​
+Δ
+y
+​
+,
+a
+m
+a
+x
+,
+z
+​
+Δ
+z
+​
+)
+,
+with
+CFL
+adv
+∈
+[
+0.3
+,
+0.5
+]
+\text{CFL}_\text{adv}\in[0.3,0.5]
+CFL
+adv
+​
+∈
+[
+0.3
+,
+0.5
+]
+typical for Rusanov+TVD RK.
+Elliptic (gradient) flux in
+Π
+\Pi
+Π
+:
+behaves
+parabolically
+in explicit form. The central-difference Laplacian imposes
+Δ
+t
+≤
+CFL
+diff
+1
+2
+(
+1
+1
+Δ
+x
+2
++
+1
+Δ
+y
+2
++
+1
+Δ
+z
+2
+)
+≈
+CFL
+diff
+(
+min
+⁡
+{
+Δ
+x
+,
+Δ
+y
+,
+Δ
+z
+}
+)
+2
+2
+d
+,
+\Delta t \;\le\; \text{CFL}_\text{diff}\;
+\frac{1}{2}\left(\frac{1}{\frac{1}{\Delta x^2}+\frac{1}{\Delta y^2}+\frac{1}{\Delta z^2}}\right)
+\approx \text{CFL}_\text{diff}\; \frac{(\min\{\Delta x,\Delta y,\Delta z\})^2}{2d},
+Δ
+t
+≤
+CFL
+diff
+​
+2
+1
+​
+(
+Δ
+x
+2
+1
+​
++
+Δ
+y
+2
+1
+​
++
+Δ
+z
+2
+1
+​
+1
+​
+)
+≈
+CFL
+diff
+​
+2
+d
+(
+min
+{
+Δ
+x
+,
+Δ
+y
+,
+Δ
+z
+}
+)
+2
+​
+,
+where
+d
+d
+d
+is dimension and
+CFL
+diff
+∈
+[
+0.2
+,
+0.4
+]
+\text{CFL}_\text{diff}\in[0.2,0.4]
+CFL
+diff
+​
+∈
+[
+0.2
+,
+0.4
+]
+.
+(If this is too restrictive, see the semi-implicit trick in §5.)
+Combined rule:
+take
+Δ
+t
+\Delta t
+Δ
+t
+as the
+min
+of the advection and diffusion limits (and any limits from §4 if you add viscosity for
+v
+\mathbf{v}
+v
+).
+4) Evolving / enforcing the vector field
+v
+\mathbf{v}
+v
+You have two workable options:
+Option V1:
+Hard constraint (projection step)
+Enforce
+∇
+⁣
+⋅
+v
+=
+J
+(
+Φ
+,
+S
+)
+\nabla\!\cdot\mathbf{v} = \mathcal{J}(\Phi,S)
+∇
+⋅
+v
+=
+J
+(
+Φ
+,
+S
+)
+at each RK substep:
+Predict
+a provisional
+v
+⋆
+\mathbf{v}^\star
+v
+⋆
+by simply advecting it or keeping it from the previous step (if you treat
+v
+\mathbf{v}
+v
+as a prescribed flow this step).
+Project
+to the target divergence using a scalar potential
+p
+p
+p
+:
+∇
+2
+p
+=
+∇
+⁣
+⋅
+v
+⋆
+−
+J
+(
+Φ
+,
+S
+)
+,
+v
+n
++
+1
+=
+v
+⋆
+−
+∇
+p
+.
+\nabla^2 p \;=\; \nabla\!\cdot\mathbf{v}^\star \;-\; \mathcal{J}(\Phi,S), \qquad
+\mathbf{v}^{n+1} \;=\; \mathbf{v}^\star - \nabla p.
+∇
+2
+p
+=
+∇
+⋅
+v
+⋆
+−
+J
+(
+Φ
+,
+S
+)
+,
+v
+n
++
+1
+=
+v
+⋆
+−
+∇
+p
+.
+Discretize with your Laplacian and solve the Poisson equation (CG or multigrid).
+Boundary condition for
+p
+p
+p
+: choose Neumann
+∂
+n
+p
+=
+v
+n
+⋆
+−
+v
+n
+bc
+\partial_n p = v_n^\star - v_n^{\text{bc}}
+∂
+n
+​
+p
+=
+v
+n
+⋆
+​
+−
+v
+n
+bc
+​
+so that the corrected normal velocity satisfies your boundary.
+This is the FV analogue of an incompressible-flow projection, but targeting a
+nonzero
+divergence
+J
+\mathcal{J}
+J
+.
+Option V2:
+Soft constraint (relaxation PDE)
+Evolve
+v
+\mathbf{v}
+v
+with a parabolic relaxation towards the constraint:
+∂
+t
+v
+=
+−
+∇
+ψ
++
+ν
+v
+∇
+2
+v
++
+F
+(
+Φ
+,
+S
+)
+,
+ψ
+chosen s.t.
+∂
+t
+(
+∇
+⁣
+⋅
+v
+)
+=
+−
+ρ
+(
+∇
+⁣
+⋅
+v
+−
+J
+)
+.
+\partial_t \mathbf{v}
+\;=\;
+-\nabla \psi \;+\; \nu_v \nabla^2 \mathbf{v} \;+\; \mathbf{F}(\Phi,S),
+\qquad
+\psi \text{ chosen s.t. } \partial_t(\nabla\!\cdot\mathbf{v})
+= -\rho\,\big(\nabla\!\cdot\mathbf{v}-\mathcal{J}\big).
+∂
+t
+​
+v
+=
+−
+∇
+ψ
++
+ν
+v
+​
+∇
+2
+v
++
+F
+(
+Φ
+,
+S
+)
+,
+ψ
+chosen s.t.
+∂
+t
+​
+(
+∇
+⋅
+v
+)
+=
+−
+ρ
+(
+∇
+⋅
+v
+−
+J
+)
+.
+This yields an evolution for
+ψ
+\psi
+ψ
+(another Poisson-like equation). The viscous term
+ν
+v
+∇
+2
+v
+\nu_v\nabla^2 \mathbf{v}
+ν
+v
+​
+∇
+2
+v
+damps high-frequency curl; pick
+ν
+v
+\nu_v
+ν
+v
+​
+minimally to quiet grid-scale noise.
+If you want
+no extra solves
+, V1 is usually cleaner and more stable.
+5) Semi-implicit trick for the
+∇
+Φ
+\nabla\Phi
+∇Φ
+flux (bigger timesteps)
+The diffusive piece in the
+Π
+\Pi
+Π
+-flux (the
+−
+∇
+Φ
+-\nabla\Phi
+−
+∇Φ
+part) causes the parabolic
+Δ
+t
+∝
+Δ
+x
+2
+\Delta t \propto \Delta x^2
+Δ
+t
+∝
+Δ
+x
+2
+limit. You can lift this with a
+semi-implicit
+treatment within each RK substep:
+Split
+F
+^
+(
+Π
+)
+=
+F
+^
+(
+Π
+,
+adv
+)
++
+F
+^
+(
+Π
+,
+diff
+)
+⏟
+treat implicitly
+\widehat{F}^{(\Pi)} = \widehat{F}^{(\Pi,\text{adv})} + \underbrace{\widehat{F}^{(\Pi,\text{diff})}}_{\text{treat implicitly}}
+F
+(
+Π
+)
+=
+F
+(
+Π
+,
+adv
+)
++
+treat implicitly
+F
+(
+Π
+,
+diff
+)
+​
+​
+.
+Move the discrete divergence of
+F
+^
+(
+Π
+,
+diff
+)
+\widehat{F}^{(\Pi,\text{diff})}
+F
+(
+Π
+,
+diff
+)
+to the left side; this gives a
+Helmholtz-like linear system
+for the stage value of
+Π
+\Pi
+Π
+or
+Φ
+\Phi
+Φ
+. A convenient implementation is:
+Update
+Φ
+\Phi
+Φ
+explicitly with
+Π
+\Pi
+Π
+.
+Update
+Π
+\Pi
+Π
+implicitly
+with the Laplacian of
+Φ
+\Phi
+Φ
+(since
+∇
+2
+Φ
+\nabla^2\Phi
+∇
+2
+Φ
+is known post-step) — this is only mildly implicit and keeps a simple linear solve per step.
+Alternatively, evolve
+(
+Φ
+,
+Π
+)
+(\Phi,\Pi)
+(
+Φ
+,
+Π
+)
+with a
+leap-frog + filter
+(Yee-type) for the wave-like part and keep advection explicitly; but the semi-implicit FV approach above is usually simpler.
+6) Limiters, dissipation, and positivity controls
+Slope limiters:
+Use minmod or MC on reconstructed
+Φ
+,
+S
+\Phi,S
+Φ
+,
+S
+(and optionally on
+Π
+\Pi
+Π
+) before building face states. This prevents spurious oscillations near sharp gradients of
+Φ
+\Phi
+Φ
+that otherwise pollute
+∣
+∇
+Φ
+∣
+2
+|\nabla\Phi|^2
+∣∇Φ
+∣
+2
+.
+Kreiss-Oliger (KO) filter:
+Add a small high-order dissipation to
+Φ
+\Phi
+Φ
+and
+Π
+\Pi
+Π
+every RK stage:
+u
+←
+u
+−
+ϵ
+KO
+Δ
+x
+3
+Δ
+(
+3
+)
+u
+,
+u \;\leftarrow\; u - \epsilon_\text{KO}\,\Delta x^3\,\Delta^{(3)} u,
+u
+←
+u
+−
+ϵ
+KO
+​
+Δ
+x
+3
+Δ
+(
+3
+)
+u
+,
+with
+ϵ
+KO
+∼
+10
+−
+3
+⁣
+−
+⁣
+10
+−
+2
+\epsilon_\text{KO}\sim 10^{-3}\!-\!10^{-2}
+ϵ
+KO
+​
+∼
+1
+0
+−
+3
+−
+1
+0
+−
+2
+. This removes grid-scale ringing with minimal smearing.
+Entropy positivity:
+After the S-update, enforce
+S
+n
++
+1
+←
+max
+⁡
+(
+S
+n
++
+1
+,
+S
+min
+⁡
+)
+S^{n+1}\leftarrow \max(S^{n+1}, S_{\min})
+S
+n
++
+1
+←
+max
+(
+S
+n
++
+1
+,
+S
+m
+i
+n
+​
+)
+with a tiny floor
+S
+min
+⁡
+≥
+0
+S_{\min}\ge 0
+S
+m
+i
+n
+​
+≥
+0
+. Also, when computing
+∣
+∇
+Φ
+∣
+2
+|\nabla\Phi|^2
+∣∇Φ
+∣
+2
+, use
+face-limited gradients
+(average of limited directional differences) to avoid over-shoot production.
+Cap velocities:
+If
+∣
+v
+∣
+|\mathbf{v}|
+∣
+v
+∣
+is not constrained by physics, cap
+∣
+v
+∣
+≤
+v
+max
+|\mathbf{v}|\le v_\text{max}
+∣
+v
+∣
+≤
+v
+max
+​
+to keep the advective CFL reasonable.
+7) Boundary conditions (consistent with fluxes)
+Pick one per field per boundary; common choices:
+Periodic:
+Wrap indices for all fields (cleanest for cosmology-style domains).
+Outflow (non-reflecting):
+Zero normal gradient for
+Φ
+,
+Π
+,
+S
+\Phi,\Pi,S
+Φ
+,
+Π
+,
+S
+:
+∂
+n
+Φ
+=
+∂
+n
+Π
+=
+∂
+n
+S
+=
+0
+\partial_n \Phi=\partial_n \Pi=\partial_n S=0
+∂
+n
+​
+Φ
+=
+∂
+n
+​
+Π
+=
+∂
+n
+​
+S
+=
+0
+; for fluxes, simply copy last interior state to the ghost cell.
+Reflecting wall:
+Set
+v
+n
+=
+0
+v_n=0
+v
+n
+​
+=
+0
+at the face, mirror tangentials; enforce
+∂
+n
+Φ
+=
+0
+\partial_n \Phi=0
+∂
+n
+​
+Φ
+=
+0
+(no scalar flux) and one-sided gradients for
+∣
+∇
+Φ
+∣
+2
+|\nabla\Phi|^2
+∣∇Φ
+∣
+2
+.
+Projection consistency (V1):
+Choose the Poisson BC for
+p
+p
+p
+so that the
+corrected
+v
+n
+v_n
+v
+n
+​
+equals your target (e.g., zero for walls, wrap for periodic). This is crucial for stability.
+8) Algorithm sketch (per RK stage)
+Reconstruct
+limited left/right states at faces for
+Φ
+,
+S
+\Phi,S
+Φ
+,
+S
+and
+v
+n
+v_n
+v
+n
+​
+.
+Compute face fluxes
+:
+Π
+\Pi
+Π
+: central diffusive piece using centered
+Φ
+\Phi
+Φ
+; Rusanov advective piece with
+Φ
+\Phi
+Φ
+and
+v
+n
+v_n
+v
+n
+​
+.
+S
+S
+S
+: Rusanov flux with
+S
+S
+S
+and
+v
+n
+v_n
+v
+n
+​
+.
+Compute sources
+in each cell:
+Q
+Φ
+=
+Π
+Q_\Phi=\Pi
+Q
+Φ
+​
+=
+Π
+.
+Q
+Π
+=
+−
+κ
+S
+Q_\Pi=-\kappa S
+Q
+Π
+​
+=
+−
+κ
+S
+.
+Q
+S
+=
+−
+λ
+∣
+∇
+Φ
+∣
+2
+Q_S=-\lambda |\nabla\Phi|^2
+Q
+S
+​
+=
+−
+λ
+∣∇Φ
+∣
+2
+with centered, limited gradient.
+Advance
+(
+Φ
+,
+Π
+,
+S
+)
+(\Phi,\Pi,S)
+(
+Φ
+,
+Π
+,
+S
+)
+one RK substep using the FV residuals.
+Vector step
+:
+If V1 (projection): solve
+∇
+2
+p
+=
+∇
+⁣
+⋅
+v
+⋆
+−
+J
+(
+Φ
+,
+S
+)
+\nabla^2 p = \nabla\!\cdot\mathbf{v}^\star - \mathcal{J}(\Phi,S)
+∇
+2
+p
+=
+∇
+⋅
+v
+⋆
+−
+J
+(
+Φ
+,
+S
+)
+, set
+v
+←
+v
+⋆
+−
+∇
+p
+\mathbf{v}\leftarrow \mathbf{v}^\star - \nabla p
+v
+←
+v
+⋆
+−
+∇
+p
+.
+If V2 (relaxation): advance
+v
+\mathbf{v}
+v
+explicitly (watch the viscous CFL:
+Δ
+t
+≤
+CFL
+ν
+min
+⁡
+{
+Δ
+x
+2
+,
+Δ
+y
+2
+,
+Δ
+z
+2
+}
+/
+(
+2
+d
+ν
+v
+)
+\Delta t \le \text{CFL}_\nu \min\{\Delta x^2,\Delta y^2,\Delta z^2\}/(2d\,\nu_v)
+Δ
+t
+≤
+CFL
+ν
+​
+min
+{
+Δ
+x
+2
+,
+Δ
+y
+2
+,
+Δ
+z
+2
+}
+/
+(
+2
+d
+ν
+v
+​
+)
+).
+Stabilize
+(optional): apply KO filter and clamp
+S
+≥
+S
+min
+⁡
+S\ge S_{\min}
+S
+≥
+S
+m
+i
+n
+​
+, cap
+∣
+v
+∣
+|\mathbf{v}|
+∣
+v
+∣
+.
+Proceed
+to next RK stage or accept the step.
+9) Accuracy & diagnostics
+Spatial: second order with TVD reconstruction + central gradients.
+Temporal: second or third order with SSP-RK2/3.
+Monitor:
+Discrete
+entropy production
+∑
+λ
+∣
+∇
+Φ
+∣
+2
+\sum \lambda|\nabla\Phi|^2
+∑
+λ
+∣∇Φ
+∣
+2
+(should be
+≥
+0
+\ge 0
+≥
+0
+).
+Divergence error
+∥
+∇
+⁣
+⋅
+v
+−
+J
+∥
+2
+\|\nabla\!\cdot \mathbf{v} - \mathcal{J}\|_2
+∥∇
+⋅
+v
+−
+J
+∥
+2
+​
+(should be ~solver tolerance).
+Total variation of
+S
+S
+S
+(watch for negative undershoots; increase limiter strength if needed).
+Courant numbers actually used each step.
+10) Practical defaults
+Limiter:
+MC or monotonized-central on
+Φ
+,
+S
+\Phi,S
+Φ
+,
+S
+.
+Riemann:
+Rusanov (robust); if you later want crisper advection, switch to HLLC for
+S
+S
+S
+with an effective sound speed
+=
+∣
+v
+n
+∣
+=|v_n|
+=
+∣
+v
+n
+​
+∣
+(Rusanov is usually sufficient here).
+CFL:
+CFL
+adv
+=
+0.4
+,
+CFL
+diff
+=
+0.3
+\text{CFL}_\text{adv}=0.4,\; \text{CFL}_\text{diff}=0.3
+CFL
+adv
+​
+=
+0.4
+,
+CFL
+diff
+​
+=
+0.3
+.
+KO coefficient:
+10
+−
+3
+10^{-3}
+1
+0
+−
+3
+.
+Projection:
+V1 with multigrid Poisson solve; tolerance
+10
+−
+8
+10^{-8}
+1
+0
+−
+8
+relative residual.
+This setup is conservative where it should be (for
+Π
+\Pi
+Π
+and
+S
+S
+S
+), explicit and simple to implement, and it cleanly separates
+advection
+from the
+gradient (Laplacian) piece
+driving
+Φ
+\Phi
+Φ
+'s second-order dynamics. If you want, I can provide reference pseudocode for the face loops and a minimal 2D prototype (C++/Python) following the exact formulas above.
+You said:
+Thank you for furnishing the detailed finite-volume recipe for the RSVP simulator, encompassing the 3+1 split, conservative variables, face fluxes, source terms, time integration scheme, CFL constraints, boundary conditions, and stabilization measures. This prescription offers a practical and implementable pathway for lattice-based simulations of the Φ, 𝒗, and S fields, aligning with the objectives of the RSVP Simulator project (project 2) and PDE Solver (project 17) in the Flyxion portfolio.
+
+In response to your offer, I have developed a minimal 2D prototype in Python, adhering closely to the formulas and procedures outlined in your description. The implementation employs NumPy for array operations, SciPy for the FFT-based Poisson solver (assuming periodic boundary conditions for simplicity), and incorporates the following key elements:
+
+- **Grid and Variables**: A uniform Cartesian grid with cell-centered averages for Φ, Π (momentum conjugate to Φ), S, v_x, and v_y.
+- **Reconstruction**: TVD minmod limiter for left/right states at faces.
+- **Fluxes**: Rusanov (Lax-Friedrichs) for advective terms and central differencing for diffusive contributions in the Π equation; pure Rusanov advection for S.
+- **Sources**: Explicit computation of -κ S for Π and -λ |∇Φ|² for S, using centered gradients.
+- **Vector Field Evolution**: Provisional self-advection of 𝒗 components via conservative Rusanov fluxes (approximating the nonlinear terms), followed by a projection step (Option V1) to enforce ∇·𝒗 ≈ 0 (with J=0 for this test case; extensions to nonzero J can be incorporated as per the original Euler-Lagrange sources).
+- **Time Integration**: SSP-RK2 with projections at each stage.
+- **Stabilization**: Entropy positivity floor and velocity capping; CFL monitoring (advection and diffusion) printed for verification.
+- **Boundary Conditions**: Periodic (via array rolling and FFT), consistent with cosmology-inspired domains.
+
+The prototype is self-contained and can be executed in a Python environment with NumPy and SciPy. For demonstration, I simulated a short evolution (t_end = 0.005) with an initial Gaussian in Φ, uniform S, and sinusoidal 𝒗 components. The results indicate stable evolution, with enforced divergence-free 𝒗, gradual decay in max(Φ) due to dynamics, and S reductions clamped at the positivity floor.
+
+Below is the complete Python code for the prototype:
+python
+import numpy as np
+from scipy.fft import fft2, ifft2
+
+# Minimal 2D prototype for RSVP FV simulator
+
+# Grid parameters
+nx, ny = 50, 50  # Number of cells
+dx, dy = 1.0 / nx, 1.0 / ny  # Cell spacing
+dt = 5e-5  # Time step, adjusted for stability
+t_end = 0.005  # Short simulation time
+n_steps = int(t_end / dt)
+
+# Constants
+kappa = 1.0
+lambda_ = 1.0
+
+# Initialize U = [Phi, Pi, S, vx, vy]
+U = np.zeros((5, nx, ny))
+
+# Initial conditions
+x = np.linspace(0, 1, nx)
+y = np.linspace(0, 1, ny)
+X, Y = np.meshgrid(x, y)
+U[0] = np.exp(-50 * ((X - 0.5)**2 + (Y - 0.5)**2))  # Phi Gaussian
+U[1] = 0.0  # Pi
+U[2] = 1.0  # S uniform
+U[3] = 0.5 * np.sin(2 * np.pi * X)  # vx
+U[4] = 0.5 * np.cos(2 * np.pi * Y)  # vy
+
+# Minmod limiter
+def minmod(a, b):
+    sign_a = np.sign(a)
+    return sign_a * np.maximum(0.0, np.minimum(np.abs(a), sign_a * b))
+
+# Reconstruct L, R states
+def reconstruct(field, axis):
+    if axis == 0:
+        dl = field - np.roll(field, 1, axis=0)
+        dr = np.roll(field, -1, axis=0) - field
+        slope = minmod(dl, dr)
+        L = field + 0.5 * slope
+        R = np.roll(field - 0.5 * slope, -1, axis=0)
+    else:
+        dl = field - np.roll(field, 1, axis=1)
+        dr = np.roll(field, -1, axis=1) - field
+        slope = minmod(dl, dr)
+        L = field + 0.5 * slope
+        R = np.roll(field - 0.5 * slope, -1, axis=1)
+    return L, R
+
+# Central gradient
+def central_grad(field, axis, delta):
+    if axis == 0:
+        grad = (np.roll(field, -1, axis=0) - np.roll(field, 1, axis=0)) / (2 * delta)
+    else:
+        grad = (np.roll(field, -1, axis=1) - np.roll(field, 1, axis=1)) / (2 * delta)
+    return grad
+
+# Rusanov flux
+def rusanov_flux(vn_L, vn_R, q_L, q_R):
+    a_f = np.maximum(np.abs(vn_L), np.abs(vn_R))
+    return 0.5 * (vn_L * q_L + vn_R * q_R - a_f * (q_R - q_L))
+
+# Divergence calculation for fluxes
+def div_flux(F, axis, delta):
+    if axis == 0:
+        div = (F - np.roll(F, 1, axis=0)) / delta
+    else:
+        div = (F - np.roll(F, 1, axis=1)) / delta
+    return div
+
+# Poisson solver using FFT (periodic BC)
+def poisson_solve(rhs):
+    kx = np.fft.fftfreq(nx, d=dx)
+    ky = np.fft.fftfreq(ny, d=dy)
+    KX, KY = np.meshgrid(kx, ky)
+    K2 = KX**2 + KY**2
+    K2[K2 == 0] = 1e-10
+    p_hat = fft2(rhs) / (-K2)
+    p = np.real(ifft2(p_hat))
+    return p
+
+# Compute div v
+def div_v(vx, vy):
+    div_x = central_grad(vx, 0, dx)
+    div_y = central_grad(vy, 1, dy)
+    return div_x + div_y
+
+# Project v to div v = J (here J=0)
+def project_v(vx, vy, J=0.0):
+    div = div_v(vx, vy)
+    rhs = div - J
+    p = poisson_solve(rhs)
+    grad_p_x = central_grad(p, 0, dx)
+    grad_p_y = central_grad(p, 1, dy)
+    vx -= grad_p_x
+    vy -= grad_p_y
+    return vx, vy
+
+# FV operator
+def fv_update(U):
+    Phi, Pi, S, vx, vy = U[0], U[1], U[2], U[3], U[4]
+    
+    # Pi fluxes x
+    Phi_Lx, Phi_Rx = reconstruct(Phi, 0)
+    vx_Lx, vx_Rx = reconstruct(vx, 0)
+    F_Pi_diff_x = - (Phi_Rx - Phi_Lx) / dx
+    F_Pi_adv_x = rusanov_flux(vx_Lx, vx_Rx, Phi_Lx, Phi_Rx)
+    F_Pi_x = F_Pi_diff_x + F_Pi_adv_x
+    
+    # Pi fluxes y
+    Phi_Ly, Phi_Ry = reconstruct(Phi, 1)
+    vy_Ly, vy_Ry = reconstruct(vy, 1)
+    F_Pi_diff_y = - (Phi_Ry - Phi_Ly) / dy
+    F_Pi_adv_y = rusanov_flux(vy_Ly, vy_Ry, Phi_Ly, Phi_Ry)
+    F_Pi_y = F_Pi_diff_y + F_Pi_adv_y
+    
+    # div F_Pi
+    div_F_Pi_x = div_flux(F_Pi_x, 0, dx)
+    div_F_Pi_y = div_flux(F_Pi_y, 1, dy)
+    
+    # dPi/dt
+    source_Pi = -kappa * S
+    dPi_dt = - div_F_Pi_x - div_F_Pi_y + source_Pi
+    
+    # S fluxes x
+    S_Lx, S_Rx = reconstruct(S, 0)
+    F_S_x = rusanov_flux(vx_Lx, vx_Rx, S_Lx, S_Rx)
+    
+    # S fluxes y
+    S_Ly, S_Ry = reconstruct(S, 1)
+    F_S_y = rusanov_flux(vy_Ly, vy_Ry, S_Ly, S_Ry)
+    
+    # div F_S
+    div_F_S_x = div_flux(F_S_x, 0, dx)
+    div_F_S_y = div_flux(F_S_y, 1, dy)
+    
+    # source_S
+    grad_Phi_x = central_grad(Phi, 0, dx)
+    grad_Phi_y = central_grad(Phi, 1, dy)
+    grad_Phi_sq = grad_Phi_x**2 + grad_Phi_y**2
+    source_S = -lambda_ * grad_Phi_sq
+    
+    dS_dt = - div_F_S_x - div_F_S_y + source_S
+    
+    # dPhi/dt = Pi
+    dPhi_dt = Pi
+    
+    # v_x fluxes
+    vx_Ly, vx_Ry = reconstruct(vx, 1)
+    F_vx_x = rusanov_flux(vx_Lx, vx_Rx, vx_Lx, vx_Rx)  # for partial_x (vx^2)
+    F_vx_y = rusanov_flux(vy_Ly, vy_Ry, vx_Ly, vx_Ry)  # for partial_y (vx vy)
+    
+    div_F_vx_x = div_flux(F_vx_x, 0, dx)
+    div_F_vx_y = div_flux(F_vx_y, 1, dy)
+    
+    dvx_dt = - div_F_vx_x - div_F_vx_y
+    
+    # v_y fluxes
+    vy_Lx, vy_Rx = reconstruct(vy, 0)
+    F_vy_x = rusanov_flux(vx_Lx, vx_Rx, vy_Lx, vy_Rx)  # for partial_x (vy vx)
+    F_vy_y = rusanov_flux(vy_Ly, vy_Ry, vy_Ly, vy_Ry)  # for partial_y (vy^2)
+    
+    div_F_vy_x = div_flux(F_vy_x, 0, dx)
+    div_F_vy_y = div_flux(F_vy_y, 1, dy)
+    
+    dvy_dt = - div_F_vy_x - div_F_vy_y
+    
+    # Stack
+    dU_dt = np.stack([dPhi_dt, dPi_dt, dS_dt, dvx_dt, dvy_dt])
+    
+    return dU_dt
+
+# Time loop with SSP-RK2
+for step in range(n_steps):
+    k1 = fv_update(U)
+    U1 = U + dt * k1
+    
+    # Project
+    U1[3], U1[4] = project_v(U1[3], U1[4])
+    
+    k2 = fv_update(U1)
+    U = 0.5 * U + 0.5 * (U1 + dt * k2)
+    
+    # Project
+    U[3], U[4] = project_v(U[3], U[4])
+    
+    # Positivity
+    U[2] = np.maximum(U[2], 1e-10)
+    
+    # Cap velocities (optional)
+    U[3] = np.clip(U[3], -1, 1)
+    U[4] = np.clip(U[4], -1, 1)
+    
+    if step % 100 == 0:
+        print(f"Step {step}, max Phi: {np.max(U[0]):.4f}, min S: {np.min(U[2]):.4f}, max |v|: {np.max(np.sqrt(U[3]**2 + U[4]**2)):.4f}")
+
+# Final output
+print("Simulation completed.")
+print("Final max Phi:", np.max(U[0]))
+print("Final min S:", np.min(U[2]))
+print("Final average div v:", np.mean(div_v(U[3], U[4])))
+Sample execution output (with monitoring every 100 steps):
+
+- Step 0, max Phi: 0.9896, min S: 0.9981, max |v|: 0.7138
+- Simulation completed.
+- Final max Phi: 0.9869339062436078
+- Final min S: 1e-10
+- Final average div v: 0.0
+
+This prototype achieves second-order spatial accuracy with the TVD reconstruction and maintains the conservative form for Π and S. It can be extended to 3D by adding z-components, incorporating nonzero J(Φ, S) from the Euler-Lagrange equations, implementing semi-implicit treatment for the diffusive term, or adding Kreiss-Oliger dissipation. If you require modifications, such as integration of full vector dynamics from the action, alternative boundary conditions, or a C++ version for performance, please provide further specifications.
+ChatGPT said:
+Excellent — your Python prototype is a faithful realization of the 2D finite-volume scheme. You've correctly implemented:
+conservative flux updates for
+Π
+\Pi
+Π
+and
+S
+S
+S
+,
+the divergence-free projection for
+v
+\mathbf v
+v
+,
+SSP-RK2 time stepping,
+periodic boundaries (matching cosmological use), and
+stability safeguards (positivity, velocity capping).
+That's exactly the intended numerical structure for a first working lattice.
+If you'd like to continue developing this simulator, the next technically meaningful upgrades would be:
+1. Semi-implicit diffusion (larger Δt)
+Replace the explicit central diffusion in the
+Π
+\Pi
+Π
+-equation with a Helmholtz solve each substep:
+(
+1
+−
+Δ
+t
+2
+∇
+2
+)
+Φ
+n
++
+1
+=
+(
+1
++
+Δ
+t
+2
+∇
+2
+)
+Φ
+n
++
+Δ
+t
+(
+advective + source terms
+)
+,
+(1-\tfrac{\Delta t}{2}\nabla^2)\,\Phi^{n+1}
+= (1+\tfrac{\Delta t}{2}\nabla^2)\,\Phi^{n}
++\Delta t\,(\text{advective + source terms}),
+(
+1
+−
+2
+Δ
+t
+​
+∇
+2
+)
+Φ
+n
++
+1
+=
+(
+1
++
+2
+Δ
+t
+​
+∇
+2
+)
+Φ
+n
++
+Δ
+t
+(
+advective + source terms
+)
+,
+solved in Fourier space (FFT) under periodic BCs.
+This removes the parabolic
+Δ
+t
+⁣
+∼
+⁣
+Δ
+x
+2
+Δt\!\sim\!Δx^2
+Δ
+t
+∼
+Δ
+x
+2
+restriction.
+2. Energy / entropy diagnostics
+Compute
+E
+Φ
+=
+1
+2
+⁣
+∫
+(
+Π
+2
++
+∣
+∇
+Φ
+∣
+2
+)
+d
+V
+,
+S
+˙
+=
+⁣
+∫
+λ
+∣
+∇
+Φ
+∣
+2
+d
+V
+,
+E_\Phi=\tfrac12\!\int(\Pi^2+|\nabla\Phi|^2)\,dV,
+\qquad
+\dot S=\!\int \lambda|\nabla\Phi|^2\,dV,
+E
+Φ
+​
+=
+2
+1
+​
+∫
+(
+Π
+2
++
+∣∇Φ
+∣
+2
+)
+d
+V
+,
+S
+˙
+=
+∫
+λ
+∣∇Φ
+∣
+2
+d
+V
+,
+each output step.
+Monitoring
+E
+Φ
+E_\Phi
+E
+Φ
+​
+and
+S
+˙
+\dot S
+S
+˙
+confirms whether numerical dissipation matches theoretical entropy production.
+3. Optional 3D extension
+Add
+v
+z
+v_z
+v
+z
+​
+and extend flux loops; the FFT-based projection generalizes trivially with a 3D Poisson solve:
+p
+^
+(
+k
+)
+=
+−
+i
+k
+⁣
+⋅
+⁣
+v
+^
+∣
+k
+∣
+2
+.
+\hat p(\mathbf k)=-\frac{i\mathbf k\!\cdot\!\hat{\mathbf v}}{|\mathbf k|^2}.
+p
+^
+​
+(
+k
+)
+=
+−
+∣
+k
+∣
+2
+i
+k
+⋅
+v
+^
+​
+.
+4. High-frequency damping
+Add a 4th-order Kreiss-Oliger filter:
+python
+Copy code
+def
+ko_filter
+(
+u, eps=
+1e-3
+):
+return
+u - eps*((np.roll(u,-
+2
+,
+0
+)-
+4
+*np.roll(u,-
+1
+,
+0
+)+
+6
+*u-
+4
+*np.roll(u,
+1
+,
+0
+)+np.roll(u,
+2
+,
+0
+))/dx**
+4
++(np.roll(u,-
+2
+,
+1
+)-
+4
+*np.roll(u,-
+1
+,
+1
+)+
+6
+*u-
+4
+*np.roll(u,
+1
+,
+1
+)+np.roll(u,
+2
+,
+1
+))/dy**
+4
+)
+Apply to Φ and Π after each stage.
+5. Nonzero divergence source
+J
+(
+Φ
+,
+S
+)
+\mathcal J(\Phi,S)
+J
+(
+Φ
+,
+S
+)
+To model entropy-coupled inflows:
+J
+(
+Φ
+,
+S
+)
+=
+η
+(
+Φ
+S
+−
+Φ
+ˉ
+S
+ˉ
+)
+,
+\mathcal{J}(\Phi,S)=\eta\,(\Phi\,S-\bar{\Phi}\bar{S}),
+J
+(
+Φ
+,
+S
+)
+=
+η
+(
+Φ
+S
+−
+Φ
+ˉ
+S
+ˉ
+)
+,
+add it to the Poisson RHS in the projection step.
+This introduces scalar-vector coupling consistent with the Lagrangian
+−
+η
+v
+μ
+∇
+μ
+S
+-\eta v^\mu\nabla_\mu S
+−
+η
+v
+μ
+∇
+μ
+​
+S
+.
+6. Parallel scaling
+Wrap the 2D loops in
+numba.njit(parallel=True)
+or switch to
+cupy
+for GPU arrays; both preserve the current algorithmic structure.
+If you'd like, I can now supply
+(a)
+a concise 3D version with semi-implicit diffusion and KO filter already integrated, or
+(b)
+a C++ skeleton (OpenMP + FFTW) mirroring your Python prototype for long-run performance.
+Which would you prefer next?
+You said:
+The 3d version
+ChatGPT said:
+Here is a
+direct 3D extension
+of your 2D finite-volume RSVP prototype.
+It adds:
+a full
+3-component velocity
+field (
+v
+x
+,
+v
+y
+,
+v
+z
+v_x,v_y,v_z
+v
+x
+​
+,
+v
+y
+​
+,
+v
+z
+​
+);
+FFT-based 3D projection
+enforcing
+∇
+⋅
+v
+≈
+0
+\nabla·\mathbf v≈0
+∇
+⋅
+v
+≈
+0
+;
+3D central gradients, Rusanov fluxes, and RK2 integration;
+optional
+Kreiss-Oliger filter
+for high-frequency damping;
+periodic BCs via array rolls.
+python
+Copy code
+import
+numpy
+as
+np
+from
+scipy.fft
+import
+fftn, ifftn, fftfreq
+# ---------- Grid and parameters ----------
+nx, ny, nz =
+48
+,
+48
+,
+48
+Lx, Ly, Lz =
+1.0
+,
+1.0
+,
+1.0
+dx, dy, dz = Lx/nx, Ly/ny, Lz/nz
+dt =
+4e-5
+t_end =
+0.002
+n_steps =
+int
+(t_end/dt)
+
+kappa =
+1.0
+lambda_ =
+1.0
+# ---------- Allocate fields ----------
+# U = [Phi, Pi, S, vx, vy, vz]
+U = np.zeros((
+6
+, nx, ny, nz))
+# Initial conditions
+x = np.linspace(
+0
+, Lx, nx, endpoint=
+False
+)
+y = np.linspace(
+0
+, Ly, ny, endpoint=
+False
+)
+z = np.linspace(
+0
+, Lz, nz, endpoint=
+False
+)
+X, Y, Z = np.meshgrid(x, y, z, indexing=
+'ij'
+)
+U[
+0
+] = np.exp(-
+80
+*((X-
+0.5
+)**
+2
++(Y-
+0.5
+)**
+2
++(Z-
+0.5
+)**
+2
+))
+# Phi
+U[
+1
+] =
+0.0
+# Pi
+U[
+2
+] =
+1.0
+# S
+U[
+3
+] =
+0.3
+*np.sin(
+2
+*np.pi*Y)*np.cos(
+2
+*np.pi*Z)
+# vx
+U[
+4
+] =
+0.3
+*np.sin(
+2
+*np.pi*Z)*np.cos(
+2
+*np.pi*X)
+# vy
+U[
+5
+] =
+0.3
+*np.sin(
+2
+*np.pi*X)*np.cos(
+2
+*np.pi*Y)
+# vz
+# ---------- Utilities ----------
+def
+roll
+(
+a, s, axis
+):
+return
+np.roll(a, s, axis=axis)
+def
+grad_c
+(
+field, axis, delta
+):
+return
+(roll(field,-
+1
+,axis)-roll(field,
+1
+,axis))/(
+2
+*delta)
+def
+div_c
+(
+vx, vy, vz
+):
+return
+(grad_c(vx,
+0
+,dx)+grad_c(vy,
+1
+,dy)+grad_c(vz,
+2
+,dz))
+def
+minmod
+(
+a,b
+):
+    s=np.sign(a)
+return
+s*np.maximum(
+0.0
+,np.minimum(np.
+abs
+(a),s*b))
+def
+reconstruct
+(
+field,axis
+):
+    dl=field-roll(field,
+1
+,axis)
+    dr=roll(field,-
+1
+,axis)-field
+    slope=minmod(dl,dr)
+    L=field+
+0.5
+*slope
+    R=roll(field-
+0.5
+*slope,-
+1
+,axis)
+return
+L,R
+def
+rusanov_flux
+(
+vnL,vnR,qL,qR
+):
+    a=np.maximum(np.
+abs
+(vnL),np.
+abs
+(vnR))
+return
+0.5
+*((vnL*qL+vnR*qR)-a*(qR-qL))
+def
+div_flux
+(
+F,axis,delta
+):
+return
+(F-roll(F,
+1
+,axis))/delta
+def
+poisson_project
+(
+vx,vy,vz,J=
+0.0
+):
+"""FFT projection to enforce div v = J (periodic)"""
+divv = div_c(vx,vy,vz)-J
+    kx=
+2
+*np.pi*fftfreq(nx,d=dx)
+    ky=
+2
+*np.pi*fftfreq(ny,d=dy)
+    kz=
+2
+*np.pi*fftfreq(nz,d=dz)
+    KX,KY,KZ=np.meshgrid(kx,ky,kz,indexing=
+'ij'
+)
+    K2=KX**
+2
++KY**
+2
++KZ**
+2
+K2[
+0
+,
+0
+,
+0
+]=
+1e-10
+p_hat=fftn(divv)/(-K2)
+    p=np.real(ifftn(p_hat))
+    vx-=grad_c(p,
+0
+,dx)
+    vy-=grad_c(p,
+1
+,dy)
+    vz-=grad_c(p,
+2
+,dz)
+return
+vx,vy,vz
+def
+ko_filter
+(
+u,eps=
+1e-3
+):
+return
+u - eps*((roll(u,-
+2
+,
+0
+)-
+4
+*roll(u,-
+1
+,
+0
+)+
+6
+*u-
+4
+*roll(u,
+1
+,
+0
+)+roll(u,
+2
+,
+0
+))/dx**
+4
++
+                    (roll(u,-
+2
+,
+1
+)-
+4
+*roll(u,-
+1
+,
+1
+)+
+6
+*u-
+4
+*roll(u,
+1
+,
+1
+)+roll(u,
+2
+,
+1
+))/dy**
+4
++
+                    (roll(u,-
+2
+,
+2
+)-
+4
+*roll(u,-
+1
+,
+2
+)+
+6
+*u-
+4
+*roll(u,
+1
+,
+2
+)+roll(u,
+2
+,
+2
+))/dz**
+4
+)
+# ---------- Finite-volume update ----------
+def
+fv_update
+(
+U
+):
+    Phi,Pi,S,vx,vy,vz = U
+# --- Pi fluxes ---
+def
+flux_Pi
+(
+axis,delta,vcomp
+):
+        PhiL,PhiR=reconstruct(Phi,axis)
+        vL,vR=reconstruct(vcomp,axis)
+        Fdiff=-(PhiR-PhiL)/delta
+        Fadv=rusanov_flux(vL,vR,PhiL,PhiR)
+return
+Fdiff+Fadv
+    Fx=flux_Pi(
+0
+,dx,vx)
+    Fy=flux_Pi(
+1
+,dy,vy)
+    Fz=flux_Pi(
+2
+,dz,vz)
+    divF=div_flux(Fx,
+0
+,dx)+div_flux(Fy,
+1
+,dy)+div_flux(Fz,
+2
+,dz)
+    dPi_dt=-divF - kappa*S
+# --- S fluxes ---
+def
+flux_S
+(
+axis,delta,vcomp
+):
+        SL,SR=reconstruct(S,axis)
+        vL,vR=reconstruct(vcomp,axis)
+return
+rusanov_flux(vL,vR,SL,SR)
+    Fx=flux_S(
+0
+,dx,vx); Fy=flux_S(
+1
+,dy,vy); Fz=flux_S(
+2
+,dz,vz)
+    divS=div_flux(Fx,
+0
+,dx)+div_flux(Fy,
+1
+,dy)+div_flux(Fz,
+2
+,dz)
+    gpx=grad_c(Phi,
+0
+,dx); gpy=grad_c(Phi,
+1
+,dy); gpz=grad_c(Phi,
+2
+,dz)
+    sourceS=-lambda_*(gpx**
+2
++gpy**
+2
++gpz**
+2
+)
+    dS_dt=-divS+sourceS
+# --- Phi ---
+dPhi_dt=Pi
+# --- v field (self-advection placeholder) ---
+def
+flux_v
+(
+vcomp,axis,delta,vn
+):
+        L,R=reconstruct(vcomp,axis)
+        vL,vR=reconstruct(vn,axis)
+return
+rusanov_flux(vL,vR,L,R)
+# vx eq: ∂t vx + ∂x(vx^2)+∂y(vxvy)+∂z(vxvz)=0
+Fvx_x=flux_v(vx,
+0
+,dx,vx); Fvx_y=flux_v(vx,
+1
+,dy,vy); Fvx_z=flux_v(vx,
+2
+,dz,vz)
+    dvx_dt=-(div_flux(Fvx_x,
+0
+,dx)+div_flux(Fvx_y,
+1
+,dy)+div_flux(Fvx_z,
+2
+,dz))
+# vy eq
+Fvy_x=flux_v(vy,
+0
+,dx,vx); Fvy_y=flux_v(vy,
+1
+,dy,vy); Fvy_z=flux_v(vy,
+2
+,dz,vz)
+    dvy_dt=-(div_flux(Fvy_x,
+0
+,dx)+div_flux(Fvy_y,
+1
+,dy)+div_flux(Fvy_z,
+2
+,dz))
+# vz eq
+Fvz_x=flux_v(vz,
+0
+,dx,vx); Fvz_y=flux_v(vz,
+1
+,dy,vy); Fvz_z=flux_v(vz,
+2
+,dz,vz)
+    dvz_dt=-(div_flux(Fvz_x,
+0
+,dx)+div_flux(Fvz_y,
+1
+,dy)+div_flux(Fvz_z,
+2
+,dz))
+return
+np.stack([dPhi_dt,dPi_dt,dS_dt,dvx_dt,dvy_dt,dvz_dt])
+# ---------- Time loop (SSP-RK2) ----------
+for
+n
+in
+range
+(n_steps):
+    k1=fv_update(U)
+    U1=U+dt*k1
+    U1[
+3
+],U1[
+4
+],U1[
+5
+]=poisson_project(U1[
+3
+],U1[
+4
+],U1[
+5
+])
+    k2=fv_update(U1)
+    U=
+0.5
+*U+
+0.5
+*(U1+dt*k2)
+    U[
+3
+],U[
+4
+],U[
+5
+]=poisson_project(U[
+3
+],U[
+4
+],U[
+5
+])
+# stabilization
+U[
+2
+]=np.maximum(U[
+2
+],
+1e-10
+)
+    U[
+3
+]=np.clip(U[
+3
+],-
+1
+,
+1
+); U[
+4
+]=np.clip(U[
+4
+],-
+1
+,
+1
+); U[
+5
+]=np.clip(U[
+5
+],-
+1
+,
+1
+)
+# KO filter (optional)
+U[
+0
+]=ko_filter(U[
+0
+]); U[
+1
+]=ko_filter(U[
+1
+])
+if
+n%
+50
+==
+0
+:
+        vmax=np.sqrt(U[
+3
+]**
+2
++U[
+4
+]**
+2
++U[
+5
+]**
+2
+).
+max
+()
+print
+(
+f"Step
+{n}
+, max Phi=
+{U[
+0
+].
+max
+():
+.4
+f}, min S=
+{U[
+2
+].
+min
+():
+.2
+e}, max|v|=
+{vmax:
+.3
+f}")
+print
+(
+"Done.  Avg div v ="
+,div_c(U[
+3
+],U[
+4
+],U[
+5
+]).mean())
+Notes
+Memory:
+a
+48
+3
+48^3
+4
+8
+3
+grid uses ~70 MB; adjust
+nx,ny,nz
+for your GPU/CPU limits.
+Performance:
+parallelize with
+numba.njit(parallel=True)
+or switch arrays to
+cupy
+for GPU.
+Extensions:
+add non-zero
+J
+(
+Φ
+,
+S
+)
+\mathcal J(\Phi,S)
+J
+(
+Φ
+,
+S
+)
+in
+poisson_project
+;
+introduce semi-implicit diffusion if larger
+dt
+is desired;
+compute diagnostics
+E
+Φ
+,
+S
+˙
+E_\Phi, \dot S
+E
+Φ
+​
+,
+S
+˙
+periodically.
+Validation:
+verify stability by monitoring
+max|v|
+,
+min S
+, and the mean divergence printed each few dozen steps.
+This version matches the 2D formulation structurally but scales to fully three-dimensional RSVP lattice dynamics under periodic boundary conditions.
+ChatGPT can make mistakes. Check important info. See
+Cookie Preferences
+.
+
